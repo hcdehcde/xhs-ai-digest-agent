@@ -79,30 +79,6 @@ Spider_XHS / XHS API Adapter
 飞书群收到 AI 日报
 ```
 
-## 数据流
-
-```mermaid
-sequenceDiagram
-    participant Scheduler as 定时任务
-    participant Runner as run_daily_digest.py
-    participant Auth as 登录态校验
-    participant Collector as xhs_digest_collect.py
-    participant XHS as 小红书采集适配器
-    participant Reports as reports/
-    participant Feishu as 飞书群
-
-    Scheduler->>Runner: 每天 22:00 触发
-    Runner->>Auth: 检查 cookie / 登录态
-    Auth-->>Runner: 返回可用或失败原因
-    Runner->>Collector: 开始生成日报
-    Collector->>XHS: 搜索关键词与重点博主内容
-    XHS-->>Collector: 返回候选笔记
-    Collector->>Collector: 去重、过滤、打分、排序
-    Collector->>Reports: 写入 Markdown 和 JSON
-    Runner->>Feishu: 可选推送日报文本
-    Feishu-->>Runner: 返回 message_id
-```
-
 ## 目录结构
 
 当前开发目录结构如下：
