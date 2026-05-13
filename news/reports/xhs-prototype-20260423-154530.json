@@ -1,0 +1,1758 @@
+{
+  "generated_at": "2026-04-23 15:45:30",
+  "summary": {
+    "total_candidates": 29,
+    "deduped_candidates": 29,
+    "kept_candidates": 11
+  },
+  "top_picks": [
+    {
+      "note_id": "69e76880000000002200e51a",
+      "url": "https://www.xiaohongshu.com/explore/69e76880000000002200e51a?xsec_token=ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=&xsec_source=pc_search",
+      "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+      "title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "15",
+      "comment_count": "",
+      "search_payload": {
+        "cover": {
+          "height": 2022,
+          "width": 1516,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "69e76880000000002200e51a",
+        "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+        "type": "video",
+        "display_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38",
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）",
+          "nick_name": "哈哈du（AI版）"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "15",
+          "sticky": false
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "desc": "金谷园饺子馆skill火了!\n当前这个时机，用好AI真的有奇效\n不仅能帮你的生意打造更好的门面\n同时这样跨界的产品，也特别适合发布到社媒吸引更多顾客\n而且整个过程，真的不难\n用秒悟这款vibe coding 工具\n能一站式搞定AI应用创作全流程的工作\n而且真的没有那么多改bug的环节\n很快就能搞定！！\n推荐大家直接去试试！！\n\t\n#AI[话题]#  #vibecoding[话题]#  #agent[话题]#  #智能体[话题]#  #创业[话题]#  #创业日记[话题]#    #AIChannel[话题]# #Meoo[话题]#  #秒悟[话题]#  #有想法就秒悟[话题]#",
+      "detail_author": "哈哈du（AI版）",
+      "detail_type": "video",
+      "publish_time_ms": 1776776654000,
+      "last_update_time_ms": 1776773249000,
+      "tag_list": [
+        {
+          "id": "5d6b7cdb000000000103e136",
+          "name": "AI",
+          "type": "topic"
+        },
+        {
+          "id": "67c0e68e00000000040164b0",
+          "name": "vibecoding",
+          "type": "topic"
+        },
+        {
+          "id": "5e79d92f0000000001006487",
+          "name": "agent",
+          "type": "topic"
+        },
+        {
+          "id": "6368c0830000000001006d3a",
+          "name": "智能体",
+          "type": "topic"
+        },
+        {
+          "id": "629f06130000000001003543",
+          "name": "创业",
+          "type": "topic"
+        },
+        {
+          "id": "5bea7b33aead0900011e479d",
+          "name": "创业日记",
+          "type": "topic"
+        },
+        {
+          "id": "6325135c000000000100a16a",
+          "name": "AIChannel",
+          "type": "topic"
+        },
+        {
+          "id": "6688e71f000000002302dbb6",
+          "name": "Meoo",
+          "type": "topic"
+        },
+        {
+          "id": "69d8e435000000000a03adf4",
+          "name": "秒悟",
+          "type": "topic"
+        },
+        {
+          "id": "69e5fab9000000000101f677",
+          "name": "有想法就秒悟",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "21",
+      "topic_tags": [
+        "Agent",
+        "AI工具",
+        "AI产品"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 92.0
+    }
+  ],
+  "top_recommended": [
+    {
+      "note_id": "69e76880000000002200e51a",
+      "url": "https://www.xiaohongshu.com/explore/69e76880000000002200e51a?xsec_token=ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=&xsec_source=pc_search",
+      "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+      "title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "15",
+      "comment_count": "",
+      "search_payload": {
+        "cover": {
+          "height": 2022,
+          "width": 1516,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "69e76880000000002200e51a",
+        "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+        "type": "video",
+        "display_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38",
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）",
+          "nick_name": "哈哈du（AI版）"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "15",
+          "sticky": false
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "desc": "金谷园饺子馆skill火了!\n当前这个时机，用好AI真的有奇效\n不仅能帮你的生意打造更好的门面\n同时这样跨界的产品，也特别适合发布到社媒吸引更多顾客\n而且整个过程，真的不难\n用秒悟这款vibe coding 工具\n能一站式搞定AI应用创作全流程的工作\n而且真的没有那么多改bug的环节\n很快就能搞定！！\n推荐大家直接去试试！！\n\t\n#AI[话题]#  #vibecoding[话题]#  #agent[话题]#  #智能体[话题]#  #创业[话题]#  #创业日记[话题]#    #AIChannel[话题]# #Meoo[话题]#  #秒悟[话题]#  #有想法就秒悟[话题]#",
+      "detail_author": "哈哈du（AI版）",
+      "detail_type": "video",
+      "publish_time_ms": 1776776654000,
+      "last_update_time_ms": 1776773249000,
+      "tag_list": [
+        {
+          "id": "5d6b7cdb000000000103e136",
+          "name": "AI",
+          "type": "topic"
+        },
+        {
+          "id": "67c0e68e00000000040164b0",
+          "name": "vibecoding",
+          "type": "topic"
+        },
+        {
+          "id": "5e79d92f0000000001006487",
+          "name": "agent",
+          "type": "topic"
+        },
+        {
+          "id": "6368c0830000000001006d3a",
+          "name": "智能体",
+          "type": "topic"
+        },
+        {
+          "id": "629f06130000000001003543",
+          "name": "创业",
+          "type": "topic"
+        },
+        {
+          "id": "5bea7b33aead0900011e479d",
+          "name": "创业日记",
+          "type": "topic"
+        },
+        {
+          "id": "6325135c000000000100a16a",
+          "name": "AIChannel",
+          "type": "topic"
+        },
+        {
+          "id": "6688e71f000000002302dbb6",
+          "name": "Meoo",
+          "type": "topic"
+        },
+        {
+          "id": "69d8e435000000000a03adf4",
+          "name": "秒悟",
+          "type": "topic"
+        },
+        {
+          "id": "69e5fab9000000000101f677",
+          "name": "有想法就秒悟",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "21",
+      "topic_tags": [
+        "Agent",
+        "AI工具",
+        "AI产品"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 92.0
+    }
+  ],
+  "more_items": [],
+  "digest_items": [
+    {
+      "note_id": "69e76880000000002200e51a",
+      "url": "https://www.xiaohongshu.com/explore/69e76880000000002200e51a?xsec_token=ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=&xsec_source=pc_search",
+      "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+      "title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "15",
+      "comment_count": "",
+      "search_payload": {
+        "cover": {
+          "height": 2022,
+          "width": 1516,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "69e76880000000002200e51a",
+        "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+        "type": "video",
+        "display_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38",
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）",
+          "nick_name": "哈哈du（AI版）"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "15",
+          "sticky": false
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "desc": "金谷园饺子馆skill火了!\n当前这个时机，用好AI真的有奇效\n不仅能帮你的生意打造更好的门面\n同时这样跨界的产品，也特别适合发布到社媒吸引更多顾客\n而且整个过程，真的不难\n用秒悟这款vibe coding 工具\n能一站式搞定AI应用创作全流程的工作\n而且真的没有那么多改bug的环节\n很快就能搞定！！\n推荐大家直接去试试！！\n\t\n#AI[话题]#  #vibecoding[话题]#  #agent[话题]#  #智能体[话题]#  #创业[话题]#  #创业日记[话题]#    #AIChannel[话题]# #Meoo[话题]#  #秒悟[话题]#  #有想法就秒悟[话题]#",
+      "detail_author": "哈哈du（AI版）",
+      "detail_type": "video",
+      "publish_time_ms": 1776776654000,
+      "last_update_time_ms": 1776773249000,
+      "tag_list": [
+        {
+          "id": "5d6b7cdb000000000103e136",
+          "name": "AI",
+          "type": "topic"
+        },
+        {
+          "id": "67c0e68e00000000040164b0",
+          "name": "vibecoding",
+          "type": "topic"
+        },
+        {
+          "id": "5e79d92f0000000001006487",
+          "name": "agent",
+          "type": "topic"
+        },
+        {
+          "id": "6368c0830000000001006d3a",
+          "name": "智能体",
+          "type": "topic"
+        },
+        {
+          "id": "629f06130000000001003543",
+          "name": "创业",
+          "type": "topic"
+        },
+        {
+          "id": "5bea7b33aead0900011e479d",
+          "name": "创业日记",
+          "type": "topic"
+        },
+        {
+          "id": "6325135c000000000100a16a",
+          "name": "AIChannel",
+          "type": "topic"
+        },
+        {
+          "id": "6688e71f000000002302dbb6",
+          "name": "Meoo",
+          "type": "topic"
+        },
+        {
+          "id": "69d8e435000000000a03adf4",
+          "name": "秒悟",
+          "type": "topic"
+        },
+        {
+          "id": "69e5fab9000000000101f677",
+          "name": "有想法就秒悟",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "21",
+      "topic_tags": [
+        "Agent",
+        "AI工具",
+        "AI产品"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 92.0
+    }
+  ],
+  "candidates": [
+    {
+      "note_id": "675e8be3000000000202477f",
+      "url": "https://www.xiaohongshu.com/explore/675e8be3000000000202477f?xsec_token=ABNNOs0i7dyngYLddr8IuJwgpQZghaDCfUe8cvdteOjRY=&xsec_source=pc_search",
+      "xsec_token": "ABNNOs0i7dyngYLddr8IuJwgpQZghaDCfUe8cvdteOjRY=",
+      "title": "历时1年半 17w+字 商业化50讲总算更新完结",
+      "author_name": "萝卜聊产品",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "5208",
+      "comment_count": "124",
+      "search_payload": {
+        "type": "normal",
+        "display_title": "历时1年半 17w+字 商业化50讲总算更新完结",
+        "user": {
+          "user_id": "5b2b0416f7e8b92837d188b2",
+          "nickname": "萝卜聊产品",
+          "nick_name": "萝卜聊产品",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/62b84b46cf141239c5d814d2.jpg"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "5208",
+          "sticky": true
+        },
+        "cover": {
+          "height": 1991,
+          "width": 1179,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/a23abda67148d9f951e972cf566968c0/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/73a921919fe34b930accb5cab7504206/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/a23abda67148d9f951e972cf566968c0/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/73a921919fe34b930accb5cab7504206/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "675e8be3000000000202477f",
+        "xsec_token": "ABNNOs0i7dyngYLddr8IuJwgpQZghaDCfUe8cvdteOjRY="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "历时1年半 17w+字 商业化50讲总算更新完结",
+      "desc": "萝卜做商业化有10多年的时间了，算是典型的业务老混子，既做过平台，也做过很多端变现，外加上操盘过很多业务，也踩了很多坑，所以对商业化的理解相对来说视角比较完善。\n即便如此，商业化50讲的内容，前前后后经历了一年半才更新完，算得上市面上相对完善且贴近实际业务的商业化内容，这里面既有萝卜自己的一些业务视角，也有和大家交流的过程中，高频出现的一些困惑以及商业化业务探索过程中典型的难题。\n这些内容，基本包含了萝卜过去10多年对于平台、流量、商业和增长的理解，还带着这个大环境之下，对于不同互联网业务的一些思考以及趋势总结。同时为了让内容更加详实和干货，萝卜也邀请了几个资深的从业者一起共创，这里也特别感谢他们。\n一年半的坚持，商业化50讲的更新完结对于萝卜来说是一个很重要的节点，整体篇幅超出15w字，一方面是身体力行的坚持长期主义，能体会到完成一个不那么容易事情的小小成就感；另一方面不断通过输出来倒逼输入，对业务有了更多深度洞察，能把事情想明白、写明白以及说明白。\n这个知识手册，将由浅入深去讲商业化的系统认识，简洁明了的告诉我们流量变现的底层逻辑和实操方法，包括精细化运营是怎么一回事，大家经常提的roi是怎么一回事，帮助我们建立对商业化的整体思考框架，关注用户长期LTV的挖掘。\n不管我们正在做商业化，还是想去做商业化，都适合我们阅读\n在存量市场的时代，互联网行业已经从单纯追求规模转向追求盈利性增长，逐渐回归到商业的根本。与此同时，与商业化相关的职位变得越来越重要，缺乏商业化知识的人将难以在职场上建立核心竞争力。“人人都是产品经理”的时代已经过去，如今，我们已经进入到“人人都必须懂商业化”的新阶段。\n简单来说，商业化知识手册将由浅入深去讲商业化的系统认知，简洁明了的告诉我们商业化变现的底层逻辑和实操方法，这都是来源于日常的业务实践，不是干巴巴的方法论，来帮助我们建立对商业化的完整认知，关注业务的长期LTV。\n懂商业化不一定能让我们赚很多钱，但一定可以帮我们少走很多歪路，少踩坑\n#产品经理[话题]# #商业分析[话题]# #商业化产品经理[话题]# #商业化[话题]# #广告投放[话题]# #广告变现[话题]# #广告运营[话题]# #商业化运营[话题]# #商业化50讲[话题]# #广告[话题]# #广告投放[话题]#",
+      "detail_author": "萝卜聊产品",
+      "detail_type": "normal",
+      "publish_time_ms": 1734249443000,
+      "last_update_time_ms": 1746271902000,
+      "tag_list": [
+        {
+          "id": "62133658000000000101d093",
+          "name": "产品经理",
+          "type": "topic"
+        },
+        {
+          "id": "5cc0706e000000000d03a60c",
+          "name": "商业分析",
+          "type": "topic"
+        },
+        {
+          "id": "613d551b00000000010036b1",
+          "name": "商业化产品经理",
+          "type": "topic"
+        },
+        {
+          "type": "topic",
+          "id": "5f1f03860000000001002691",
+          "name": "商业化"
+        },
+        {
+          "type": "topic",
+          "id": "5ca997f0000000000e028384",
+          "name": "广告投放"
+        },
+        {
+          "id": "62749e5300000000010033b6",
+          "name": "广告变现",
+          "type": "topic"
+        },
+        {
+          "id": "5d006f74000000000f01cd02",
+          "name": "广告运营",
+          "type": "topic"
+        },
+        {
+          "id": "6012cf6900000000010097d0",
+          "name": "商业化运营",
+          "type": "topic"
+        },
+        {
+          "id": "6690fc250000000024028f2e",
+          "name": "商业化50讲",
+          "type": "topic"
+        },
+        {
+          "id": "5c07354d7e831f0001084a38",
+          "name": "广告",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "5672",
+      "topic_tags": [
+        "AI PM",
+        "AI产品",
+        "AI知识学习"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 92.0
+    },
+    {
+      "note_id": "680b41bf000000001c012ada",
+      "url": "https://www.xiaohongshu.com/explore/680b41bf000000001c012ada?xsec_token=ABTN1LU1wVJ1y2pX1uFqpK0Y_fKQu8yoi2BK_i3hYxbsA=&xsec_source=pc_search",
+      "xsec_token": "ABTN1LU1wVJ1y2pX1uFqpK0Y_fKQu8yoi2BK_i3hYxbsA=",
+      "title": "3分钟讲明白最近大热的「MCP」",
+      "author_name": "Super Winnie",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "8384",
+      "comment_count": "80",
+      "search_payload": {
+        "xsec_token": "ABTN1LU1wVJ1y2pX1uFqpK0Y_fKQu8yoi2BK_i3hYxbsA=",
+        "type": "video",
+        "display_title": "3分钟讲明白最近大热的「MCP」",
+        "user": {
+          "nick_name": "Super Winnie",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30omcdmnp3e005nd2jp2g8vtepdirh00",
+          "user_id": "5da29e450000000001007fae",
+          "nickname": "Super Winnie"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "8384",
+          "sticky": true
+        },
+        "cover": {
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/bbfc79c69e8134d41db2f4dba125d820/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/6d8dc2927fd3045210504756e015c4b3/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/bbfc79c69e8134d41db2f4dba125d820/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/6d8dc2927fd3045210504756e015c4b3/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1348,
+          "width": 1011
+        },
+        "note_id": "680b41bf000000001c012ada"
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "3分钟讲明白最近大热的「MCP」",
+      "desc": "MCP的新热潮正在塑AI大模型们\n挑战白话讲明白什么是MCP\n模型上下文协议（Model Context Protocol）\n1-到底什么是MCP\n2-为什么它重要\n3-架构解析（技术角度）\n4-每一部分有什么工具可用\n﻿#ai模型[话题]#﻿ ﻿#MCP[话题]#﻿ ﻿#AI[话题]#﻿ ﻿#智能体[话题]#﻿ ﻿#科技[话题]#﻿",
+      "detail_author": "Super Winnie",
+      "detail_type": "video",
+      "publish_time_ms": 1745568191000,
+      "last_update_time_ms": 1775798816000,
+      "tag_list": [
+        {
+          "id": "6413d2f4000000000a007ecc",
+          "name": "ai模型",
+          "type": "topic"
+        },
+        {
+          "id": "6219a17c0000000001008189",
+          "name": "MCP",
+          "type": "topic"
+        },
+        {
+          "id": "5d6b7cdb000000000103e136",
+          "name": "AI",
+          "type": "topic"
+        },
+        {
+          "id": "6368c0830000000001006d3a",
+          "name": "智能体",
+          "type": "topic"
+        },
+        {
+          "id": "5c9b9c05000000000f03ec1e",
+          "name": "科技",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "8271",
+      "topic_tags": [
+        "Agent",
+        "AI工具"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 92.0
+    },
+    {
+      "note_id": "69e76880000000002200e51a",
+      "url": "https://www.xiaohongshu.com/explore/69e76880000000002200e51a?xsec_token=ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=&xsec_source=pc_search",
+      "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+      "title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "15",
+      "comment_count": "",
+      "search_payload": {
+        "cover": {
+          "height": 2022,
+          "width": 1516,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/58e4e13ddf4bdbb84cd525873171b50c/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/fa49dffb8ad943fa4a3b8cb5425201eb/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "69e76880000000002200e51a",
+        "xsec_token": "ABZDDOqpBsr-ec6UVwv2lXpA-CG3d1TpvslaBRhiKD3Go=",
+        "type": "video",
+        "display_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38",
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）",
+          "nick_name": "哈哈du（AI版）"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "15",
+          "sticky": false
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "desc": "金谷园饺子馆skill火了!\n当前这个时机，用好AI真的有奇效\n不仅能帮你的生意打造更好的门面\n同时这样跨界的产品，也特别适合发布到社媒吸引更多顾客\n而且整个过程，真的不难\n用秒悟这款vibe coding 工具\n能一站式搞定AI应用创作全流程的工作\n而且真的没有那么多改bug的环节\n很快就能搞定！！\n推荐大家直接去试试！！\n\t\n#AI[话题]#  #vibecoding[话题]#  #agent[话题]#  #智能体[话题]#  #创业[话题]#  #创业日记[话题]#    #AIChannel[话题]# #Meoo[话题]#  #秒悟[话题]#  #有想法就秒悟[话题]#",
+      "detail_author": "哈哈du（AI版）",
+      "detail_type": "video",
+      "publish_time_ms": 1776776654000,
+      "last_update_time_ms": 1776773249000,
+      "tag_list": [
+        {
+          "id": "5d6b7cdb000000000103e136",
+          "name": "AI",
+          "type": "topic"
+        },
+        {
+          "id": "67c0e68e00000000040164b0",
+          "name": "vibecoding",
+          "type": "topic"
+        },
+        {
+          "id": "5e79d92f0000000001006487",
+          "name": "agent",
+          "type": "topic"
+        },
+        {
+          "id": "6368c0830000000001006d3a",
+          "name": "智能体",
+          "type": "topic"
+        },
+        {
+          "id": "629f06130000000001003543",
+          "name": "创业",
+          "type": "topic"
+        },
+        {
+          "id": "5bea7b33aead0900011e479d",
+          "name": "创业日记",
+          "type": "topic"
+        },
+        {
+          "id": "6325135c000000000100a16a",
+          "name": "AIChannel",
+          "type": "topic"
+        },
+        {
+          "id": "6688e71f000000002302dbb6",
+          "name": "Meoo",
+          "type": "topic"
+        },
+        {
+          "id": "69d8e435000000000a03adf4",
+          "name": "秒悟",
+          "type": "topic"
+        },
+        {
+          "id": "69e5fab9000000000101f677",
+          "name": "有想法就秒悟",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "21",
+      "topic_tags": [
+        "Agent",
+        "AI工具",
+        "AI产品"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 92.0
+    },
+    {
+      "note_id": "69c908db0000000023022c95",
+      "url": "https://www.xiaohongshu.com/explore/69c908db0000000023022c95?xsec_token=ABCjqraq6-PyoC2kWSWwOZUiWJ9vHK_CYkcTLzIuZHvuI=&xsec_source=pc_search",
+      "xsec_token": "ABCjqraq6-PyoC2kWSWwOZUiWJ9vHK_CYkcTLzIuZHvuI=",
+      "title": "我的Qclaw和大厂撞名，我决定……",
+      "author_name": "秋芝2046",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "2652",
+      "comment_count": "195",
+      "search_payload": {
+        "user": {
+          "nick_name": "秋芝2046",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/66264d9e58b20e08aa252780.jpg",
+          "user_id": "63b622ab00000000260066bd",
+          "nickname": "秋芝2046"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "2652",
+          "sticky": true
+        },
+        "cover": {
+          "file_id": "",
+          "height": 1685,
+          "width": 1263,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/a1036e55de89f68560730ba00db89005/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/a5c21b3db3f3f3a7f447cc7950018e4c/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/a1036e55de89f68560730ba00db89005/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/a5c21b3db3f3f3a7f447cc7950018e4c/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_mw_1"
+        },
+        "note_id": "69c908db0000000023022c95",
+        "xsec_token": "ABCjqraq6-PyoC2kWSWwOZUiWJ9vHK_CYkcTLzIuZHvuI=",
+        "type": "video",
+        "display_title": "我的Qclaw和大厂撞名，我决定……"
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "我的Qclaw和大厂撞名，我决定……",
+      "desc": "#ai[话题]# #秋芝2046[话题]# #开源[话题]# #openclaw[话题]# #龙虾[话题]# #agent[话题]# #ai工具[话题]# #软件开发[话题]# #小白[话题]# #AI新手村[话题]#",
+      "detail_author": "秋芝2046",
+      "detail_type": "video",
+      "publish_time_ms": 1774782683000,
+      "last_update_time_ms": 1774782684000,
+      "tag_list": [
+        {
+          "id": "5c1c3c9a000000000a030af3",
+          "name": "ai",
+          "type": "topic"
+        },
+        {
+          "name": "秋芝2046",
+          "type": "topic",
+          "id": "67332e3c000000002102044c"
+        },
+        {
+          "name": "开源",
+          "type": "topic",
+          "id": "5cb2cbf6000000000f015f75"
+        },
+        {
+          "id": "697c3b9a000000002500f89f",
+          "name": "openclaw",
+          "type": "topic"
+        },
+        {
+          "name": "龙虾",
+          "type": "topic",
+          "id": "5a5447e77642f15cd547eb1f"
+        },
+        {
+          "id": "5e79d92f0000000001006487",
+          "name": "agent",
+          "type": "topic"
+        },
+        {
+          "id": "6375bc520000000001003b69",
+          "name": "ai工具",
+          "type": "topic"
+        },
+        {
+          "id": "5c0f70b73767f600014af155",
+          "name": "软件开发",
+          "type": "topic"
+        },
+        {
+          "id": "5eee0518000000000101e76f",
+          "name": "小白",
+          "type": "topic"
+        },
+        {
+          "type": "topic",
+          "id": "63ed18c40000000001000a8d",
+          "name": "AI新手村"
+        }
+      ],
+      "collected_count": "1879",
+      "topic_tags": [
+        "Agent",
+        "AI工具"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 89.0
+    },
+    {
+      "note_id": "69555595000000001e00294c",
+      "url": "https://www.xiaohongshu.com/explore/69555595000000001e00294c?xsec_token=AB6TELGlm6fH3SAFOZsktUdNTsBt-Uv3Ay-Zot3kMzAis=&xsec_source=pc_search",
+      "xsec_token": "AB6TELGlm6fH3SAFOZsktUdNTsBt-Uv3Ay-Zot3kMzAis=",
+      "title": "VibeCoding产品电商化、制造业化",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "99",
+      "comment_count": "3",
+      "search_payload": {
+        "interact_info": {
+          "sticky": true,
+          "liked": false,
+          "liked_count": "99"
+        },
+        "cover": {
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/f8035da3c2cf5d87f141df7f5f38ee04/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/491f751ed9d83969b1970a5a84ee572c/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/f8035da3c2cf5d87f141df7f5f38ee04/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/491f751ed9d83969b1970a5a84ee572c/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1104,
+          "width": 828,
+          "url": ""
+        },
+        "note_id": "69555595000000001e00294c",
+        "xsec_token": "AB6TELGlm6fH3SAFOZsktUdNTsBt-Uv3Ay-Zot3kMzAis=",
+        "type": "normal",
+        "display_title": "VibeCoding产品电商化、制造业化",
+        "user": {
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）",
+          "nick_name": "哈哈du（AI版）",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38"
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "VibeCoding产品电商化、制造业化",
+      "desc": "记录下这一年陆续对VibeCoding的一些想法和判断：\n\t\n1/ Vibe Coding产品电商化、制造业化\n成本越来越低，之前难以被软件解决的问题，可以开始用软件来解决\n同时软件的同质化越来越高，一个手搓产品爆了之后，同质竞品大量出现（“跟品”）\n\t\n2/ 但是目前Vibe coding产品，没有制造业的标准化。大量手搓产品依然依赖于提示词、教程、N次bug调试。\n\t\nAI教育和课程是解决方案之一。但学习和复杂本身逆人性。还是要结合产品力，把学习成本转嫁到产品功能上。\n\t\n3/ 因为生产越来越容易，跟品、做同质化的产品越来越容易，竞争力不在于“想法”，在于品牌跟用户之间的信任关系。\n\t\n一个App/网站，只构成品牌里的一个品。而品牌和店铺里面，只有一个品是不够（要上架就上一打）\n\t\n4/ 分发？没想明白。不过可见的是，手搓产品不仅是正儿八经落地解决需求的产品，还有很多用来玩梗的用完即走网站。\n\t\n用完即走型产品，更轻便更短生命周期，所以也可能是更广泛受众的切入点？\n\t\n十分疲倦，但奔腾的大脑啊～～\n记录一下！新年快乐！\n#ai[话题]# #AI工具[话题]# #agent[话题]# #vibecoding[话题]##AIChannel[话题]# #AI学习[话题]#",
+      "detail_author": "哈哈du（AI版）",
+      "detail_type": "normal",
+      "publish_time_ms": 1767200149000,
+      "last_update_time_ms": 1767327676000,
+      "tag_list": [
+        {
+          "id": "5c1c3c9a000000000a030af3",
+          "name": "ai",
+          "type": "topic"
+        },
+        {
+          "name": "AI工具",
+          "type": "topic",
+          "id": "635679cb000000000100505c"
+        },
+        {
+          "type": "topic",
+          "id": "5e79d92f0000000001006487",
+          "name": "agent"
+        },
+        {
+          "id": "67c0e68e00000000040164b0",
+          "name": "vibecoding",
+          "type": "topic"
+        },
+        {
+          "id": "6325135c000000000100a16a",
+          "name": "AIChannel",
+          "type": "topic"
+        },
+        {
+          "type": "topic",
+          "id": "5f4c9b2f000000000100496a",
+          "name": "AI学习"
+        }
+      ],
+      "collected_count": "82",
+      "topic_tags": [
+        "Agent",
+        "AI工具",
+        "AI产品"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 89.0
+    },
+    {
+      "note_id": "69bb8215000000001e00d646",
+      "url": "https://www.xiaohongshu.com/explore/69bb8215000000001e00d646?xsec_token=ABYWD3vgrWXmgp7WH4YRhRSZTdXbUjzPCRCA0gq6zSEms=&xsec_source=pc_search",
+      "xsec_token": "ABYWD3vgrWXmgp7WH4YRhRSZTdXbUjzPCRCA0gq6zSEms=",
+      "title": "把我推荐的AI高质量信息源做成了skill！",
+      "author_name": "张咋啦",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "7675",
+      "comment_count": "235",
+      "search_payload": {
+        "interact_info": {
+          "liked": false,
+          "liked_count": "7675",
+          "sticky": true
+        },
+        "cover": {
+          "height": 1226,
+          "width": 1080,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/441b80762ea084ba1bd5d6f038fca81f/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/7464171a2ad8daec078b7d66bcef21b4/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/441b80762ea084ba1bd5d6f038fca81f/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/7464171a2ad8daec078b7d66bcef21b4/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "69bb8215000000001e00d646",
+        "xsec_token": "ABYWD3vgrWXmgp7WH4YRhRSZTdXbUjzPCRCA0gq6zSEms=",
+        "type": "video",
+        "display_title": "把我推荐的AI高质量信息源做成了skill！",
+        "user": {
+          "nick_name": "张咋啦",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fl1gsq2g40049mmbftcr46vum9nk9o",
+          "user_id": "59757acd50c4b45e6e9a90df",
+          "nickname": "张咋啦"
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "把我推荐的AI高质量信息源做成了skill！",
+      "desc": "用这个skill，让你的龙虾一口气关注我推荐的所有builders，并且每天给你生成一个个性化AI简报！GitHub在我的签名里\n\t\n#龙虾[话题]# #vibecoding[话题]# #skill[话题]# #openclaw[话题]#",
+      "detail_author": "张咋啦",
+      "detail_type": "video",
+      "publish_time_ms": 1773896213000,
+      "last_update_time_ms": 1773896213000,
+      "tag_list": [
+        {
+          "id": "5a5447e77642f15cd547eb1f",
+          "name": "龙虾",
+          "type": "topic"
+        },
+        {
+          "id": "67c0e68e00000000040164b0",
+          "name": "vibecoding",
+          "type": "topic"
+        },
+        {
+          "id": "5ceaa71b000000000f02295f",
+          "name": "skill",
+          "type": "topic"
+        },
+        {
+          "id": "697c3b9a000000002500f89f",
+          "name": "openclaw",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "9700",
+      "topic_tags": [
+        "信息源",
+        "Agent"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 76.0
+    },
+    {
+      "note_id": "69e97f1a00000000230175f1",
+      "url": "https://www.xiaohongshu.com/explore/69e97f1a00000000230175f1?xsec_token=ABJzz5eUDKd5FqbJelgIBrOykbjBppxxeCVkGTig2zSjE=&xsec_source=pc_search",
+      "xsec_token": "ABJzz5eUDKd5FqbJelgIBrOykbjBppxxeCVkGTig2zSjE=",
+      "title": "AI 能写诗，但是功夫在诗外",
+      "author_name": "张咋啦",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "143",
+      "comment_count": "13",
+      "search_payload": {
+        "user": {
+          "nick_name": "张咋啦",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fl1gsq2g40049mmbftcr46vum9nk9o",
+          "user_id": "59757acd50c4b45e6e9a90df",
+          "nickname": "张咋啦"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "143",
+          "sticky": false
+        },
+        "cover": {
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/546f5f6c5be30c7161fe51d0f8fc6788/1040g00831v9mrcr8ii0049mmbftcr46vr4j7c38!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 2400,
+          "width": 1440,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/895f9bb26ef53749011e1f8593cac2d9/1040g00831v9mrcr8ii0049mmbftcr46vr4j7c38!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/546f5f6c5be30c7161fe51d0f8fc6788/1040g00831v9mrcr8ii0049mmbftcr46vr4j7c38!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/895f9bb26ef53749011e1f8593cac2d9/1040g00831v9mrcr8ii0049mmbftcr46vr4j7c38!nc_n_webp_prv_1"
+        },
+        "note_id": "69e97f1a00000000230175f1",
+        "xsec_token": "ABJzz5eUDKd5FqbJelgIBrOykbjBppxxeCVkGTig2zSjE=",
+        "type": "normal",
+        "display_title": "AI 能写诗，但是功夫在诗外"
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "AI 能写诗，但是功夫在诗外",
+      "desc": "如图",
+      "detail_author": "张咋啦",
+      "detail_type": "normal",
+      "publish_time_ms": 1776910107000,
+      "last_update_time_ms": 1776910107000,
+      "tag_list": [],
+      "collected_count": "35",
+      "topic_tags": [],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "6969e058000000002202cd68",
+      "url": "https://www.xiaohongshu.com/explore/6969e058000000002202cd68?xsec_token=AB7kNLUQluHPeNXLkgxYXx0XqHMmnPAS_Dt-f8sBDGnNc=&xsec_source=pc_search",
+      "xsec_token": "AB7kNLUQluHPeNXLkgxYXx0XqHMmnPAS_Dt-f8sBDGnNc=",
+      "title": "2026靠这10个AI技能，拉开差距",
+      "author_name": "Super Winnie",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "6万",
+      "comment_count": "397",
+      "search_payload": {
+        "type": "video",
+        "display_title": "2026靠这10个AI技能，拉开差距",
+        "user": {
+          "nick_name": "Super Winnie",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30omcdmnp3e005nd2jp2g8vtepdirh00",
+          "user_id": "5da29e450000000001007fae",
+          "nickname": "Super Winnie"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "6万",
+          "sticky": true
+        },
+        "cover": {
+          "width": 1263,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/052dabea3a401ddbc6c9decb9c4ce666/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231545/a99b2c8a1ae406e66dcc2a6396c8676f/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/052dabea3a401ddbc6c9decb9c4ce666/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/a99b2c8a1ae406e66dcc2a6396c8676f/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1685
+        },
+        "note_id": "6969e058000000002202cd68",
+        "xsec_token": "AB7kNLUQluHPeNXLkgxYXx0XqHMmnPAS_Dt-f8sBDGnNc="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "2026靠这10个AI技能，拉开差距",
+      "desc": "其实现在用 AI，\n真的不用纠结会不会某一个工具。\n你慢慢会发现， 拉开差距的不是“会用多少 AI”\n而是能不能在这一堆工具里， 找到最适合自己的用法。\n\t\n有没有自己的 AI 工作环境？\n有没有把它当成一个能长期配合的助手？\n哪些事可以交给 AI，\n哪些事你自己来更合适？\n想清楚这些，\n\t\nAI 才不是压力，\n而是真的在帮你省时间、省精力。\n一点思考，希望有帮助 🙂\n\t\n#AI教程[话题]# #大模型[话题]# #AI工作[话题]# #2026AI[话题]# #科技[话题]# #AI工具[话题]#",
+      "detail_author": "Super Winnie",
+      "detail_type": "video",
+      "publish_time_ms": 1768546392000,
+      "last_update_time_ms": 1768546393000,
+      "tag_list": [
+        {
+          "id": "5dc3dfa4000000000100b34a",
+          "name": "AI教程",
+          "type": "topic"
+        },
+        {
+          "type": "topic",
+          "id": "624d11eb000000000101e223",
+          "name": "大模型"
+        },
+        {
+          "id": "63f8ea6000000000010049b0",
+          "name": "AI工作",
+          "type": "topic"
+        },
+        {
+          "id": "692665ec000000002302d0c2",
+          "name": "2026AI",
+          "type": "topic"
+        },
+        {
+          "name": "科技",
+          "type": "topic",
+          "id": "5c9b9c05000000000f03ec1e"
+        },
+        {
+          "id": "635679cb000000000100505c",
+          "name": "AI工具",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "9.5万",
+      "topic_tags": [
+        "AI工具"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 8
+      },
+      "total_score": 58.0
+    },
+    {
+      "note_id": "69e9c4bc000000001e00d14c",
+      "url": "https://www.xiaohongshu.com/explore/69e9c4bc000000001e00d14c?xsec_token=ABg8JBZxCGRWdevjDk1T7QFm0JjzLuC_NXLDifx1My4eQ=&xsec_source=pc_search",
+      "xsec_token": "ABg8JBZxCGRWdevjDk1T7QFm0JjzLuC_NXLDifx1My4eQ=",
+      "title": "手把手教你拯救普通产品照片",
+      "author_name": "等风来的沙",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e9c4bc000000001e00d14c",
+        "model_type": "note",
+        "note_card": {
+          "cover": {
+            "width": 720,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/da19f7e1fbac3f9c2ec264a473f7b9cc/1040g00831v9vfk7r3q6g4bfv08p8dqp873jha5g!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/8373b20688e6d157dac14a3c2a27b8d2/1040g00831v9vfk7r3q6g4bfv08p8dqp873jha5g!nc_n_webp_prv_1",
+            "height": 1280
+          },
+          "image_list": [
+            {
+              "height": 1280,
+              "width": 720,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/da19f7e1fbac3f9c2ec264a473f7b9cc/1040g00831v9vfk7r3q6g4bfv08p8dqp873jha5g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/8373b20688e6d157dac14a3c2a27b8d2/1040g00831v9vfk7r3q6g4bfv08p8dqp873jha5g!nc_n_webp_prv_1"
+                }
+              ]
+            }
+          ],
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "39分钟前"
+            }
+          ],
+          "type": "video",
+          "display_title": "手把手教你拯救普通产品照片",
+          "user": {
+            "xsec_token": "ABQiMfKq6D3ErZNELatnD9DHzSVEWVTDfwRCkPny4GP5Q=",
+            "nick_name": "等风来的沙",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31pqq274ekg604bfv08p8dqp83diu5k8?imageView2/2/w/80/format/jpg",
+            "user_id": "5bc5f286488442000119eb28",
+            "nickname": "等风来的沙"
+          },
+          "interact_info": {
+            "liked_count": "0",
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0",
+            "shared_count": "0",
+            "liked": false
+          }
+        },
+        "xsec_token": "ABg8JBZxCGRWdevjDk1T7QFm0JjzLuC_NXLDifx1My4eQ="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "手把手教你拯救普通产品照片",
+      "desc": "#妙思AI[话题]##电商[话题]##AI工具[话题]##电商产品[话题]##带货[话题]##电商带货[话题]##视频带货[话题]#",
+      "detail_author": "等风来的沙",
+      "detail_type": "video",
+      "publish_time_ms": 1776927932000,
+      "last_update_time_ms": 1776927932000,
+      "tag_list": [
+        {
+          "name": "妙思AI",
+          "type": "topic",
+          "id": "696f6ef7000000001e00113f"
+        },
+        {
+          "type": "topic",
+          "id": "5753002fd5945f0165a0f957",
+          "name": "电商"
+        },
+        {
+          "id": "635679cb000000000100505c",
+          "name": "AI工具",
+          "type": "topic"
+        },
+        {
+          "name": "电商产品",
+          "type": "topic",
+          "id": "5c9f29da000000000f016379"
+        },
+        {
+          "id": "5c0e5550ccbf9100016e9d47",
+          "name": "带货",
+          "type": "topic"
+        },
+        {
+          "id": "6103c4830000000001009a48",
+          "name": "电商带货",
+          "type": "topic"
+        },
+        {
+          "name": "视频带货",
+          "type": "topic",
+          "id": "5e5231e400000000010009af"
+        }
+      ],
+      "collected_count": "",
+      "topic_tags": [
+        "AI工具",
+        "AI产品"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 8
+      },
+      "total_score": 52.0
+    },
+    {
+      "note_id": "69e9c3490000000011023003",
+      "url": "https://www.xiaohongshu.com/explore/69e9c3490000000011023003?xsec_token=ABg8JBZxCGRWdevjDk1T7QFlc-hQW8kyPVg5lqQkw-Sxg=&xsec_source=pc_search",
+      "xsec_token": "ABg8JBZxCGRWdevjDk1T7QFlc-hQW8kyPVg5lqQkw-Sxg=",
+      "title": "质性研究用ai自动编码不要太强👍",
+      "author_name": "智研ai科研助手",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "",
+      "comment_count": "1",
+      "search_payload": {
+        "note_card": {
+          "type": "normal",
+          "display_title": "质性研究用ai自动编码不要太强👍",
+          "user": {
+            "nick_name": "智研ai科研助手",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31mvhdolll26g5on1te57jpknma82cj8?imageView2/2/w/80/format/jpg",
+            "user_id": "62e1eb8a000000001e01e697",
+            "nickname": "智研ai科研助手",
+            "xsec_token": "AByKJOqxfdXDewNiHAnHZQlB5Z4q5meIQda_WKZHoCkVc="
+          },
+          "interact_info": {
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "1",
+            "shared_count": "0",
+            "liked": false,
+            "liked_count": "0"
+          },
+          "cover": {
+            "height": 1440,
+            "width": 1160,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/8b33f3eb10f181230a5cf36b660031a2/1040g00831v9v45b11m605on1te57jpknkp1es28!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/4cd0f8099d665bcc4fb965ccb5297d39/1040g00831v9v45b11m605on1te57jpknkp1es28!nc_n_webp_prv_1"
+          },
+          "image_list": [
+            {
+              "height": 1440,
+              "width": 1160,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/8b33f3eb10f181230a5cf36b660031a2/1040g00831v9v45b11m605on1te57jpknkp1es28!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/4cd0f8099d665bcc4fb965ccb5297d39/1040g00831v9v45b11m605on1te57jpknkp1es28!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 1440,
+              "width": 1160,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/6355efb2b21c319fef21b8906be4973b/1040g00831v9v45b11m505on1te57jpknmvf7lko!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/109eff8cecb79fb5109734d01f293abc/1040g00831v9v45b11m505on1te57jpknmvf7lko!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "width": 1122,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/b65613d36bf040754613ad8cc751f6cc/1040g00831v9v45b11m3g5on1te57jpkn8h19fg8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/5841dffc0f1a91ca5499ac9be2c669a1/1040g00831v9v45b11m3g5on1te57jpkn8h19fg8!nc_n_webp_prv_1"
+                }
+              ],
+              "height": 1402
+            },
+            {
+              "height": 1402,
+              "width": 1122,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/57e1d050fa9dcd167aa8ffea1d08bd21/1040g00831v9v45b11m4g5on1te57jpknm0fbbt8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/f47f80768fbc7e79799fdc1713f9d897/1040g00831v9v45b11m4g5on1te57jpknm0fbbt8!nc_n_webp_prv_1"
+                }
+              ]
+            }
+          ],
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "45分钟前"
+            }
+          ]
+        },
+        "xsec_token": "ABg8JBZxCGRWdevjDk1T7QFlc-hQW8kyPVg5lqQkw-Sxg=",
+        "id": "69e9c3490000000011023003",
+        "model_type": "note"
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "质性研究用ai自动编码不要太强👍",
+      "desc": "质性研究编码通用。结果还可以导入NVivo、MAXQDA。与手动编码出来的一模一样。用AI辅助不是少做事，\n而是把重复整理交给 AI。\n资料一多，最怕的就是反复归类、反复命名、反复导出。\n这套智能自动编码平台，直接把流程拉通：\n导入资料 → AI自动编码 → 输出结果。\n重点更清晰，整理更省时，结果也更方便继续使用。\n主页店铺即可体验。\n#nvivo[话题]# #人类高质量科研工具[话题]# #三级编码[话题]# #质性研究[话题]# #科研学习[话题]# #nvivo三级编码[话题]# #主题分析[话题]# #访谈法[话题]# #文本分析[话题]# #定性研究[话题]#",
+      "detail_author": "智研ai科研助手",
+      "detail_type": "normal",
+      "publish_time_ms": 1776927561000,
+      "last_update_time_ms": 1776927561000,
+      "tag_list": [
+        {
+          "id": "6128f815000000000100ad17",
+          "name": "nvivo",
+          "type": "topic"
+        },
+        {
+          "id": "6211cf110000000001009638",
+          "name": "人类高质量科研工具",
+          "type": "topic"
+        },
+        {
+          "id": "624b9526000000000101da9d",
+          "name": "三级编码",
+          "type": "topic"
+        },
+        {
+          "type": "topic",
+          "id": "6119e4240000000001006c57",
+          "name": "质性研究"
+        },
+        {
+          "id": "5e06aec400000000010082fe",
+          "name": "科研学习",
+          "type": "topic"
+        },
+        {
+          "id": "64c7870d000000003701b7e9",
+          "name": "nvivo三级编码",
+          "type": "topic"
+        },
+        {
+          "id": "61519e17000000000101c360",
+          "name": "主题分析",
+          "type": "topic"
+        },
+        {
+          "id": "622b2f26000000000101ca93",
+          "name": "访谈法",
+          "type": "topic"
+        },
+        {
+          "id": "5f2514ad00000000010014a6",
+          "name": "文本分析",
+          "type": "topic"
+        },
+        {
+          "id": "6156f033000000000100b958",
+          "name": "定性研究",
+          "type": "topic"
+        }
+      ],
+      "collected_count": "",
+      "topic_tags": [
+        "AI工具"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 12
+      },
+      "total_score": 48.0
+    },
+    {
+      "note_id": "69e9c91f000000001f030c00",
+      "url": "https://www.xiaohongshu.com/explore/69e9c91f000000001f030c00?xsec_token=ABg8JBZxCGRWdevjDk1T7QFp9sepb2HGcgKXkq-WtqqVo=&xsec_source=pc_search",
+      "xsec_token": "ABg8JBZxCGRWdevjDk1T7QFp9sepb2HGcgKXkq-WtqqVo=",
+      "title": "0基础·手把手教你怎么使用AI创作",
+      "author_name": "美育小星球",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "1",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e9c91f000000001f030c00",
+        "model_type": "note",
+        "note_card": {
+          "user": {
+            "nick_name": "美育小星球",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ut275dviq1040o9r6f4jg3p7u3t1d0?imageView2/2/w/80/format/jpg",
+            "user_id": "55719e4942099574cfdfc079",
+            "nickname": "美育小星球",
+            "xsec_token": "ABL_8eVkw6AxAAw9V9C38REFZzQ2iT2iUg9ERJ8Ud0tjA="
+          },
+          "interact_info": {
+            "collected_count": "1",
+            "comment_count": "0",
+            "shared_count": "0",
+            "liked": false,
+            "liked_count": "1",
+            "collected": false
+          },
+          "cover": {
+            "height": 1440,
+            "width": 1080,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231545/575e9913d56cb104e6ea1d910bc7182c/1040g2sg31v9utt0g1u104a05og4c3nmt4pnkpm0!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231545/c62ae508e86f2a28f95280e9bfdfaf47/1040g2sg31v9utt0g1u104a05og4c3nmt4pnkpm0!nc_n_webp_prv_1"
+          },
+          "image_list": [
+            {
+              "width": 1080,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/575e9913d56cb104e6ea1d910bc7182c/1040g2sg31v9utt0g1u104a05og4c3nmt4pnkpm0!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231545/c62ae508e86f2a28f95280e9bfdfaf47/1040g2sg31v9utt0g1u104a05og4c3nmt4pnkpm0!nc_n_webp_prv_1"
+                }
+              ],
+              "height": 1440
+            }
+          ],
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "20分钟前"
+            }
+          ],
+          "type": "video",
+          "display_title": "0基础·手把手教你怎么使用AI创作"
+        },
+        "xsec_token": "ABg8JBZxCGRWdevjDk1T7QFp9sepb2HGcgKXkq-WtqqVo="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "0基础·手把手教你怎么使用AI创作",
+      "desc": "#少儿美术培训机构[话题]# #美术教育[话题]# #ai[话题]# #创作者必备[话题]# #人工智能未来[话题]# #AI工具[话题]# #艺术从业者[话题]##ai艺术[话题]# #ai绘画[话题]# #ai工具[话题]#",
+      "detail_author": "美育小星球",
+      "detail_type": "video",
+      "publish_time_ms": 1776929055000,
+      "last_update_time_ms": 1776929055000,
+      "tag_list": [
+        {
+          "id": "5c83d454000000000e037af9",
+          "name": "少儿美术培训机构",
+          "type": "topic"
+        },
+        {
+          "type": "topic",
+          "id": "5c70a833000000000f03ddda",
+          "name": "美术教育"
+        },
+        {
+          "name": "ai",
+          "type": "topic",
+          "id": "5c1c3c9a000000000a030af3"
+        },
+        {
+          "type": "topic",
+          "id": "640b0f14000000001803829d",
+          "name": "创作者必备"
+        },
+        {
+          "id": "640adf10000000001803d49e",
+          "name": "人工智能未来",
+          "type": "topic"
+        },
+        {
+          "name": "AI工具",
+          "type": "topic",
+          "id": "635679cb000000000100505c"
+        },
+        {
+          "id": "61a0dc0a000000000100930e",
+          "name": "艺术从业者",
+          "type": "topic"
+        },
+        {
+          "id": "6252df940000000001006ad2",
+          "name": "ai艺术",
+          "type": "topic"
+        },
+        {
+          "id": "5f2f8a4a000000000100ba99",
+          "name": "ai绘画",
+          "type": "topic"
+        },
+        {
+          "name": "ai工具",
+          "type": "topic",
+          "id": "6375bc520000000001003b69"
+        }
+      ],
+      "collected_count": "1",
+      "topic_tags": [
+        "AI工具"
+      ],
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 8
+      },
+      "total_score": 46.0
+    }
+  ]
+}

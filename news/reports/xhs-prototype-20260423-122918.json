@@ -1,0 +1,1747 @@
+{
+  "generated_at": "2026-04-23 12:29:18",
+  "summary": {
+    "total_candidates": 15,
+    "deduped_candidates": 15,
+    "kept_candidates": 14
+  },
+  "top_picks": [
+    {
+      "note_id": "69e992c70000000021005ad2",
+      "url": "https://www.xiaohongshu.com/explore/69e992c70000000021005ad2?xsec_token=ABi3XahfuMrYmXbjRkfEzNrxKFeLXI6BwRaa4uhE3rMuI=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrxKFeLXI6BwRaa4uhE3rMuI=",
+      "title": "agent 开发只会 python 不学 java 行不行",
+      "author_name": "顶级耐面王～老帆",
+      "content_type": "normal",
+      "matched_keywords": [
+        "Agent"
+      ],
+      "liked_count": "",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e992c70000000021005ad2",
+        "model_type": "note",
+        "note_card": {
+          "display_title": "agent 开发只会 python 不学 java 行不行",
+          "image_list": [
+            {
+              "height": 1400,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/2c13ae6e74e454190348d400e2c79c00/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/09e8213e3e0ab888f6c1e4aeb13370db/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1052
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/106f0fd65954b2a371582cc6553eb4c0/1040g00831v9mlv1v3m0g5q79ttitp07vb6fnaog!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/f6dc35e16899ef7317227a3457127286/1040g00831v9mlv1v3m0g5q79ttitp07vb6fnaog!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/ee98a3f1bb19314cc11de769bdc5b924/1040g00831v9mlv1v3m105q79ttitp07v3b603j8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/ec3a77280e30cc749b382b789b8eff37/1040g00831v9mlv1v3m105q79ttitp07v3b603j8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/162d083e8a83a73d3a491e2ce64f4d01/1040g00831v9mlv1v3m1g5q79ttitp07v4dp6c1g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/19f1f9914f00cb9a802b21e79b7266c0/1040g00831v9mlv1v3m1g5q79ttitp07v4dp6c1g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1080,
+              "height": 1440
+            },
+            {
+              "width": 1040,
+              "height": 1388,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/364ff48480638b371183c3b303570bbb/1040g00831v9mlv1v3m205q79ttitp07vunuhcq0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/fe4fbc24ff857bc0168b13850ed57b37/1040g00831v9mlv1v3m205q79ttitp07vunuhcq0!nc_n_webp_prv_1"
+                }
+              ]
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31udokolchm005q79ttitp07v7df66b0?imageView2/2/w/80/format/jpg",
+            "nick_name": "顶级耐面王～老帆",
+            "nickname": "顶级耐面王～老帆",
+            "user_id": "68e9ef6500000000370080ff",
+            "xsec_token": "ABwGKI1HZRi0JHI3aaZdJ6fQDRVYNo4xfjW-qogPxCZfc="
+          },
+          "corner_tag_info": [
+            {
+              "text": "56分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/09e8213e3e0ab888f6c1e4aeb13370db/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_prv_1",
+            "width": 1052,
+            "height": 1400,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/2c13ae6e74e454190348d400e2c79c00/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_mw_1"
+          }
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrxKFeLXI6BwRaa4uhE3rMuI="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "agent 开发只会 python 不学 java 行不行",
+      "desc": "[汗颜R]经常有人问：做 Agent 开发，只会 Python 不学 Java 到底行不行？今天我把逻辑讲透，帮大家彻底理清方向\n\t\n首先强调一句：Agent 开发，核心是开发，本质就是后端开发 + 大模型业务，不是单纯玩模型、调 Prompt、跑 Demo。和它同级的岗位名称还有数据库开发、服务器开发、云原生开发等，本质都是 SDE，只是业务方向不一样。Agent 只是因为大模型赛道火、需求大，才变成一个专门叫法，和搜广推类似，都属于工程开发岗。\n既然是标准开发岗，一个有竞争力的候选人，必须具备完整的后端能力。也就是说，你要先走完一段标准 SDE 的培养路线，再叠加 LLM 业务知识，而不是反过来。\n只会 Python 问题很大。你有没有想过，自己写的 Agent 怎么上线商用？难道就靠一个 Python 文件直接跑吗？显然不合理。Python 更适合快速验证、实现核心逻辑、搭建原型，但高并发、稳定部署、线上运维、服务治理这些工程能力，单靠 Python 远远不够。\n也不是说必须死磕 Java。现在大厂后端 Go 越来越主流，Java 以前吃香是因为 Spring 生态完善，做 Web 业务效率高，但对大模型场景并没有特别优势。Go 轻量、高性能、编译型，更适合现在大模型后端服务\n\t\n所以关键根本不是 “学不学 Java”，而是你有没有把自己当成一名真正的工程师去培养。你可以主攻 Go，也可以选 Java，未来 Rust、C++ 也都可以，但必须掌握一门正经后端语言，能独立写服务、做部署、查问题、扛线上流量\n\t\n如果现在你的技术栈只是：会 Python、会调 API、会搭 Demo、能说点 LLM 原理，那离能上岗、能过大厂面试的 Agent 开发，还差一大截\n\t\n我不是否定大家，而是提醒顺序别搞反：先补全工程能力，再叠加大模型知识，这样讲项目深度、应对面试才站得住。现在很多人的 Demo 一大半都是 Cursor 生成的，自己都说不清实现细节，这种水平很难通过大厂筛选\n\t\n如果你是 27/28 届，想走 Agent / 大模型应用方向，不知道技术栈怎么搭、选 Go 还是 Java，可以说说你的背景和目标，我可以帮你对标 26 届真实上岸案例，给你一条更稳的路线[满月R]\n\t\n#互联网大厂[话题]# #大模型[话题]# #后端开发[话题]# #ai大模型[话题]# #agent[话题]#",
+      "detail_author": "顶级耐面王～老帆",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 80.0
+    },
+    {
+      "note_id": "69e98c53000000001a030d78",
+      "url": "https://www.xiaohongshu.com/explore/69e98c53000000001a030d78?xsec_token=AB5DaNJdARCpdVsMDtxN31oa3ZHBWDsscYTIFUS4V00Ng=&xsec_source=pc_search",
+      "xsec_token": "AB5DaNJdARCpdVsMDtxN31oa3ZHBWDsscYTIFUS4V00Ng=",
+      "title": "马来西亚注册公司一年费用多少钱？",
+      "author_name": "Hello International",
+      "content_type": "normal",
+      "matched_keywords": [
+        "Agent"
+      ],
+      "liked_count": "",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e98c53000000001a030d78",
+        "model_type": "note",
+        "note_card": {
+          "cover": {
+            "url_default": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg7WVQme_Rtj9BWdVhN8TRn6-S_GZ-m_-1Jul8wVpeTZIkfeED2Sn6UPRSkla6RXNIY6Zr7SGNpeq_52EUUUbaPR9b-zbmiUITSTMAs6rTHSThZKBR6tMDK75KaNjBzN3VmPB4huJLPqTroqFTFYgdz2YPr4PhdCM0Z2U3vXs0k5PUERxFT88Uw5yYR3dmrDt-I=#?v=cb1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/4ad41d0c937166c4611e62146cc7a116/1040g00831upfo55p3q705n56pr748uu17vclcoo!nc_n_webp_prv_1?v=cb1",
+            "width": 1440,
+            "height": 2257
+          },
+          "display_title": "马来西亚注册公司一年费用多少钱？",
+          "image_list": [
+            {
+              "width": 1440,
+              "height": 2257,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg7WVQme_Rtj9BWdVhN8TRn6-S_GZ-m_-1Jul8wVpeTZIkfeED2Sn6UPRSkla6RXNIY6Zr7SGNpeq_52EUUUbaPR9b-zbmiUITSTMAs6rTHSThZKBR6tMDK75KaNjBzN3VmPB4huJLPqTroqFTFYgdz2YPr4PhdCM0Z2U3vXs0k5PUERxFT88Uw5yYR3dmrDt-I=#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg7WVQme_Rtj9BWdVhN8TRn6-S_GZ-m_-1Jul8wVpeTZIsYS4TRNfm_A48Uw9PbjzYIp6hHr99-6PsZQrsNwxG_d-1uhsqU8rQ0dZJFpR6yWS5nEdC6mNNckzsppjZH8GVdTVEzOoKIMcAcgaLcGmdMPodAX85bDaYAXwpTBy7ovExS__teXbtWDCMV2bOnuhOQ=#?v=cb1"
+                }
+              ]
+            }
+          ],
+          "interact_info": {
+            "collected_count": "0",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0",
+            "collected": false
+          },
+          "type": "normal",
+          "user": {
+            "nick_name": "Hello International",
+            "nickname": "Hello International",
+            "user_id": "5ca6cece0000000011007bc1",
+            "xsec_token": "AB10__5XrCc--Kndy-oCLxECuY5CyfMWuLQj3-yprFl-A=",
+            "avatar": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg6kl1iLB20p7nj6oESVqB2BcMtWkA36VXKNd7aTOQNSLYwUL3UplveFaA748MCekMMEOUz6BJ72dnGMm3AED91nIrVn5c2n4JGMkZ_E67NuJ3mHkFlMr1W_9yjEbgwiexNGl2whJVyfeb6cKCHZn4vw#?v=cb1"
+          },
+          "corner_tag_info": [
+            {
+              "text": "1小时前",
+              "type": "publish_time"
+            }
+          ]
+        },
+        "xsec_token": "AB5DaNJdARCpdVsMDtxN31oa3ZHBWDsscYTIFUS4V00Ng="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "马来西亚注册公司一年费用多少钱？",
+      "desc": "🇲🇾 Sdn Bhd 一年到底要花多少钱？\n😄很多人一听到 Sdn Bhd，第一个反应就是： “哇，很贵啦～” 但到底贵在哪、一年要花多少，全是模糊概念～\n今天把 Sdn Bhd 的注册费、年费全摊开算，新手也能看懂👇\n📝注册公司一次性费用\n我们的注册配套 2,088（一次性），无隐藏收费✅\n包含：SSM 官方费用 + 全部注册流程 + 文件准备提交\n不用后期慢慢加钱，明明白白注册😌\n📌Sdn Bhd 每年固定费用参考\n📂 公司秘书费用（Comsec）｜一年约 🐎 1,616\n📍 年度公司秘书费：🐎 38/月 → 🐎 456/年\n📍 MBRS（提交审计报告）：🐎 600\n📍 Annual Return（年度申报）：🐎 500\n📍 Beneficial Ownership（实益拥有权）：🐎 60\n👉 加起来大概 🐎 1,616 左右 📑\n📊 审计费用（Auditor Fee）\n🔹 休眠公司（免审计）：🐎 700 + 其他支出\n🔹 营业额 < 🐎1M：🐎 1,000 – 🐎 3,500 + 其他支出\n🔹 1M – 2M：🐎 3,500 – 🐎 5,000 + 其他支出\n📌 实际价格会看业务复杂度，不是单看 turnover\n🧾 报税代理费用（Tax Agent Fee）\n🔹 营业额 < 🐎1M：🐎 1,200 + 其他支出\n🔹 1M – 2M：🐎 1,500 + 其他支出\n📌 主要看账目复杂程度，不只是数字大小\n📘 Accounting Fee（会计费用）\n😄这个浮动最大，但一般市场价：\n👉🐎 300 – 🐎 500 / 月 但也可以 🐎 1000 – 🐎 2000/月\n简单算一笔账（以 1M turnover 为例）\n📍 Company Secretary\n📍 Audit\n📍 Tax Agent\n👉 一年大约 🐎 6,000 左右（不包括 accounting）\n而且很多情况：可以申请 audit exemption\n✨不是贵不贵，是值不值\n很多人觉得 Sdn Bhd 贵，其实是阶段不对\n👉生意还没稳定、没盈利 → 成本当然重\n👉生意稳定、要扩张 → 这是必要的成长成本📈\nSdn Bhd 不是拿来“看起来厉害”， 而是\n👉帮你做结构、控风险、放大生意的工具 👍",
+      "detail_author": "Hello International",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 70.0
+    },
+    {
+      "note_id": "69e9893c000000001f00378b",
+      "url": "https://www.xiaohongshu.com/explore/69e9893c000000001f00378b?xsec_token=AB5DaNJdARCpdVsMDtxN31ocuuBsE6H3kueWLNcOmCBXg=&xsec_source=pc_search",
+      "xsec_token": "AB5DaNJdARCpdVsMDtxN31ocuuBsE6H3kueWLNcOmCBXg=",
+      "title": "科普视频专业老师推荐的视频制作工具免💰用",
+      "author_name": "资料大全呀",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "liked_count": "",
+      "comment_count": "12",
+      "search_payload": {
+        "id": "69e9893c000000001f00378b",
+        "model_type": "note",
+        "note_card": {
+          "user": {
+            "avatar": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhpTf9y9vJ_-IR6PFcQ1Fd0RkWtdaTdC1BTWXvkYd0JvGBJ6mzTqcYg_dCMVnveqCS9TJHdwJy7HLnY4s3RPr2jq4jLefZPBhXDre7Wyq2ywOrYnaZrcYG_SNYwzv5p-E0TEKsDa2PHWkAc27TipCzjp#?v=cb1",
+            "nick_name": "资料大全呀",
+            "nickname": "资料大全呀",
+            "user_id": "685aada4000000001b01b92d",
+            "xsec_token": "ABS14SsPK6XbAxnVQqw-wMopgLtb9Xk3-DfeeDs6qZ9V4="
+          },
+          "corner_tag_info": [
+            {
+              "text": "1小时前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/cc6a1dbc9cadf55c4ec058977697a8b3/1040g2sg31v9o2js83qe05q2qlmi6re9d9jfs00o!nc_n_webp_prv_1?v=cb1",
+            "width": 1200,
+            "height": 1600,
+            "url_default": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhrHU9NoYyOGSyJpbhWW-h2ApvkwidJOnFPM8UR3wG3Jyk9ubBdSlZdTO2B4g8UOCvMNobJKucRARX4JjbvG5JIdFL-wwlenSdYp-Uja3_AqncQR2owQkfn0h5_t3OLz5PSUaN6ubWyyVBsyDQRVEDGOj5Rdi-YVMPAH7A_-cV1ppBDSXpKu46y0XEV8GSr_JwY=#?v=cb1"
+          },
+          "display_title": "科普视频专业老师推荐的视频制作工具免💰用",
+          "image_list": [
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhrHU9NoYyOGSyJpbhWW-h2ApvkwidJOnFPM8UR3wG3Jyk9ubBdSlZdTO2B4g8UOCvMNobJKucRARX4JjbvG5JIdFL-wwlenSdYp-Uja3_AqncQR2owQkfn0h5_t3OLz5PSUaN6ubWyyVBsyDQRVEDGOj5Rdi-YVMPAH7A_-cV1ppBDSXpKu46y0XEV8GSr_JwY=#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhrHU9NoYyOGSyJpbhWW-h2ApvkwidJOnFPM8UR3wG3Jyr3u0qjdbFxhF3mQWtpUHowtT_6o9bLIhuB8-a3lF8LkTBAlIUX8fqgR-NGCarbBax1L9UdFBlS_qkefKxFff2oBu68IJZJFmN44Ar-0_z2TCUwfScM9UGEyzQUX-Xn285VaBqlKZ8SaYue88x6Ir-g=#?v=cb1"
+                }
+              ],
+              "width": 1200
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "12",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "1"
+          },
+          "type": "normal"
+        },
+        "xsec_token": "AB5DaNJdARCpdVsMDtxN31ocuuBsE6H3kueWLNcOmCBXg="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "科普视频专业老师推荐的视频制作工具免💰用",
+      "desc": "做视频工具就是信息差，我也是知道了后，才知道还有这么好用的。\n主要用途如下：\n微课/优质课/公开课/科普视频/学生作业/单位宣传/短剧/漫剧都行。\n文案或者脚本输入，模板一选，自动配音+字幕一键成片\n免费不限制次数\n手机电脑都可以\n24小时自动发货，拍下即用，真的很方便。\n#ai视频生成教程[话题]# #ai视频制作[话题]# #ai视频生成[话题]# #数字人怎么制作[话题]# #ai生成视频[话题]# #数字人视频制作[话题]# #数字人免费制作平台[话题]# #ai视频生成app[话题]# #ai视频生成软件[话题]# #ai视频怎么制作[话题]# #ai视频免费制作[话题]# #免费ai生成视频[话题]# #怎么用ai做视频[话题]# #ai漫剧制作教程[话题]# #ai动画视频怎么制作[话题]# #生成视频的ai工具[话题]# #ai数字人[话题]# #ai生成视频哪个软件好[话题]# #ai生成视频免费[话题]# #怎么制作ai视频[话题]# #ai视频代做接单[话题]# #ai动画制作[话题]# #数字人视频制作[话题]# #AI生成[话题]# #视频制作教程[话题]# #短视频运营[话题]# #内容生成[话题]# #AI应用[话题]# #视频创作[话题]# #ai制作视频哪个软件好用[话题]#",
+      "detail_author": "资料大全呀",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 12
+      },
+      "total_score": 52.0
+    }
+  ],
+  "candidates": [
+    {
+      "note_id": "69e992c70000000021005ad2",
+      "url": "https://www.xiaohongshu.com/explore/69e992c70000000021005ad2?xsec_token=ABi3XahfuMrYmXbjRkfEzNrxKFeLXI6BwRaa4uhE3rMuI=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrxKFeLXI6BwRaa4uhE3rMuI=",
+      "title": "agent 开发只会 python 不学 java 行不行",
+      "author_name": "顶级耐面王～老帆",
+      "content_type": "normal",
+      "matched_keywords": [
+        "Agent"
+      ],
+      "liked_count": "",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e992c70000000021005ad2",
+        "model_type": "note",
+        "note_card": {
+          "display_title": "agent 开发只会 python 不学 java 行不行",
+          "image_list": [
+            {
+              "height": 1400,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/2c13ae6e74e454190348d400e2c79c00/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/09e8213e3e0ab888f6c1e4aeb13370db/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1052
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/106f0fd65954b2a371582cc6553eb4c0/1040g00831v9mlv1v3m0g5q79ttitp07vb6fnaog!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/f6dc35e16899ef7317227a3457127286/1040g00831v9mlv1v3m0g5q79ttitp07vb6fnaog!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/ee98a3f1bb19314cc11de769bdc5b924/1040g00831v9mlv1v3m105q79ttitp07v3b603j8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/ec3a77280e30cc749b382b789b8eff37/1040g00831v9mlv1v3m105q79ttitp07v3b603j8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/162d083e8a83a73d3a491e2ce64f4d01/1040g00831v9mlv1v3m1g5q79ttitp07v4dp6c1g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/19f1f9914f00cb9a802b21e79b7266c0/1040g00831v9mlv1v3m1g5q79ttitp07v4dp6c1g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1080,
+              "height": 1440
+            },
+            {
+              "width": 1040,
+              "height": 1388,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/364ff48480638b371183c3b303570bbb/1040g00831v9mlv1v3m205q79ttitp07vunuhcq0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/fe4fbc24ff857bc0168b13850ed57b37/1040g00831v9mlv1v3m205q79ttitp07vunuhcq0!nc_n_webp_prv_1"
+                }
+              ]
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31udokolchm005q79ttitp07v7df66b0?imageView2/2/w/80/format/jpg",
+            "nick_name": "顶级耐面王～老帆",
+            "nickname": "顶级耐面王～老帆",
+            "user_id": "68e9ef6500000000370080ff",
+            "xsec_token": "ABwGKI1HZRi0JHI3aaZdJ6fQDRVYNo4xfjW-qogPxCZfc="
+          },
+          "corner_tag_info": [
+            {
+              "text": "56分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/09e8213e3e0ab888f6c1e4aeb13370db/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_prv_1",
+            "width": 1052,
+            "height": 1400,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/2c13ae6e74e454190348d400e2c79c00/1040g00831v9mlv1v3m005q79ttitp07v937q8f0!nc_n_webp_mw_1"
+          }
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrxKFeLXI6BwRaa4uhE3rMuI="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "agent 开发只会 python 不学 java 行不行",
+      "desc": "[汗颜R]经常有人问：做 Agent 开发，只会 Python 不学 Java 到底行不行？今天我把逻辑讲透，帮大家彻底理清方向\n\t\n首先强调一句：Agent 开发，核心是开发，本质就是后端开发 + 大模型业务，不是单纯玩模型、调 Prompt、跑 Demo。和它同级的岗位名称还有数据库开发、服务器开发、云原生开发等，本质都是 SDE，只是业务方向不一样。Agent 只是因为大模型赛道火、需求大，才变成一个专门叫法，和搜广推类似，都属于工程开发岗。\n既然是标准开发岗，一个有竞争力的候选人，必须具备完整的后端能力。也就是说，你要先走完一段标准 SDE 的培养路线，再叠加 LLM 业务知识，而不是反过来。\n只会 Python 问题很大。你有没有想过，自己写的 Agent 怎么上线商用？难道就靠一个 Python 文件直接跑吗？显然不合理。Python 更适合快速验证、实现核心逻辑、搭建原型，但高并发、稳定部署、线上运维、服务治理这些工程能力，单靠 Python 远远不够。\n也不是说必须死磕 Java。现在大厂后端 Go 越来越主流，Java 以前吃香是因为 Spring 生态完善，做 Web 业务效率高，但对大模型场景并没有特别优势。Go 轻量、高性能、编译型，更适合现在大模型后端服务\n\t\n所以关键根本不是 “学不学 Java”，而是你有没有把自己当成一名真正的工程师去培养。你可以主攻 Go，也可以选 Java，未来 Rust、C++ 也都可以，但必须掌握一门正经后端语言，能独立写服务、做部署、查问题、扛线上流量\n\t\n如果现在你的技术栈只是：会 Python、会调 API、会搭 Demo、能说点 LLM 原理，那离能上岗、能过大厂面试的 Agent 开发，还差一大截\n\t\n我不是否定大家，而是提醒顺序别搞反：先补全工程能力，再叠加大模型知识，这样讲项目深度、应对面试才站得住。现在很多人的 Demo 一大半都是 Cursor 生成的，自己都说不清实现细节，这种水平很难通过大厂筛选\n\t\n如果你是 27/28 届，想走 Agent / 大模型应用方向，不知道技术栈怎么搭、选 Go 还是 Java，可以说说你的背景和目标，我可以帮你对标 26 届真实上岸案例，给你一条更稳的路线[满月R]\n\t\n#互联网大厂[话题]# #大模型[话题]# #后端开发[话题]# #ai大模型[话题]# #agent[话题]#",
+      "detail_author": "顶级耐面王～老帆",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 80.0
+    },
+    {
+      "note_id": "69e98c53000000001a030d78",
+      "url": "https://www.xiaohongshu.com/explore/69e98c53000000001a030d78?xsec_token=AB5DaNJdARCpdVsMDtxN31oa3ZHBWDsscYTIFUS4V00Ng=&xsec_source=pc_search",
+      "xsec_token": "AB5DaNJdARCpdVsMDtxN31oa3ZHBWDsscYTIFUS4V00Ng=",
+      "title": "马来西亚注册公司一年费用多少钱？",
+      "author_name": "Hello International",
+      "content_type": "normal",
+      "matched_keywords": [
+        "Agent"
+      ],
+      "liked_count": "",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e98c53000000001a030d78",
+        "model_type": "note",
+        "note_card": {
+          "cover": {
+            "url_default": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg7WVQme_Rtj9BWdVhN8TRn6-S_GZ-m_-1Jul8wVpeTZIkfeED2Sn6UPRSkla6RXNIY6Zr7SGNpeq_52EUUUbaPR9b-zbmiUITSTMAs6rTHSThZKBR6tMDK75KaNjBzN3VmPB4huJLPqTroqFTFYgdz2YPr4PhdCM0Z2U3vXs0k5PUERxFT88Uw5yYR3dmrDt-I=#?v=cb1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/4ad41d0c937166c4611e62146cc7a116/1040g00831upfo55p3q705n56pr748uu17vclcoo!nc_n_webp_prv_1?v=cb1",
+            "width": 1440,
+            "height": 2257
+          },
+          "display_title": "马来西亚注册公司一年费用多少钱？",
+          "image_list": [
+            {
+              "width": 1440,
+              "height": 2257,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg7WVQme_Rtj9BWdVhN8TRn6-S_GZ-m_-1Jul8wVpeTZIkfeED2Sn6UPRSkla6RXNIY6Zr7SGNpeq_52EUUUbaPR9b-zbmiUITSTMAs6rTHSThZKBR6tMDK75KaNjBzN3VmPB4huJLPqTroqFTFYgdz2YPr4PhdCM0Z2U3vXs0k5PUERxFT88Uw5yYR3dmrDt-I=#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg7WVQme_Rtj9BWdVhN8TRn6-S_GZ-m_-1Jul8wVpeTZIsYS4TRNfm_A48Uw9PbjzYIp6hHr99-6PsZQrsNwxG_d-1uhsqU8rQ0dZJFpR6yWS5nEdC6mNNckzsppjZH8GVdTVEzOoKIMcAcgaLcGmdMPodAX85bDaYAXwpTBy7ovExS__teXbtWDCMV2bOnuhOQ=#?v=cb1"
+                }
+              ]
+            }
+          ],
+          "interact_info": {
+            "collected_count": "0",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0",
+            "collected": false
+          },
+          "type": "normal",
+          "user": {
+            "nick_name": "Hello International",
+            "nickname": "Hello International",
+            "user_id": "5ca6cece0000000011007bc1",
+            "xsec_token": "AB10__5XrCc--Kndy-oCLxECuY5CyfMWuLQj3-yprFl-A=",
+            "avatar": "https://cdn.xiaohongshu.com/sd-static/api/20260423122912/693bc5c9-a374-4402-90a0-e0a8f85ae5dd?u=XPV0hFkn2mcaD5b-CnKvmhX4gEcXV59kT5XJbmoxWcNGSBDyqSN0UYR2Px898BMJPPS7biyXrgMosW2fSowrrzIJrzI2kGbA8WmZ1MUerg6kl1iLB20p7nj6oESVqB2BcMtWkA36VXKNd7aTOQNSLYwUL3UplveFaA748MCekMMEOUz6BJ72dnGMm3AED91nIrVn5c2n4JGMkZ_E67NuJ3mHkFlMr1W_9yjEbgwiexNGl2whJVyfeb6cKCHZn4vw#?v=cb1"
+          },
+          "corner_tag_info": [
+            {
+              "text": "1小时前",
+              "type": "publish_time"
+            }
+          ]
+        },
+        "xsec_token": "AB5DaNJdARCpdVsMDtxN31oa3ZHBWDsscYTIFUS4V00Ng="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "马来西亚注册公司一年费用多少钱？",
+      "desc": "🇲🇾 Sdn Bhd 一年到底要花多少钱？\n😄很多人一听到 Sdn Bhd，第一个反应就是： “哇，很贵啦～” 但到底贵在哪、一年要花多少，全是模糊概念～\n今天把 Sdn Bhd 的注册费、年费全摊开算，新手也能看懂👇\n📝注册公司一次性费用\n我们的注册配套 2,088（一次性），无隐藏收费✅\n包含：SSM 官方费用 + 全部注册流程 + 文件准备提交\n不用后期慢慢加钱，明明白白注册😌\n📌Sdn Bhd 每年固定费用参考\n📂 公司秘书费用（Comsec）｜一年约 🐎 1,616\n📍 年度公司秘书费：🐎 38/月 → 🐎 456/年\n📍 MBRS（提交审计报告）：🐎 600\n📍 Annual Return（年度申报）：🐎 500\n📍 Beneficial Ownership（实益拥有权）：🐎 60\n👉 加起来大概 🐎 1,616 左右 📑\n📊 审计费用（Auditor Fee）\n🔹 休眠公司（免审计）：🐎 700 + 其他支出\n🔹 营业额 < 🐎1M：🐎 1,000 – 🐎 3,500 + 其他支出\n🔹 1M – 2M：🐎 3,500 – 🐎 5,000 + 其他支出\n📌 实际价格会看业务复杂度，不是单看 turnover\n🧾 报税代理费用（Tax Agent Fee）\n🔹 营业额 < 🐎1M：🐎 1,200 + 其他支出\n🔹 1M – 2M：🐎 1,500 + 其他支出\n📌 主要看账目复杂程度，不只是数字大小\n📘 Accounting Fee（会计费用）\n😄这个浮动最大，但一般市场价：\n👉🐎 300 – 🐎 500 / 月 但也可以 🐎 1000 – 🐎 2000/月\n简单算一笔账（以 1M turnover 为例）\n📍 Company Secretary\n📍 Audit\n📍 Tax Agent\n👉 一年大约 🐎 6,000 左右（不包括 accounting）\n而且很多情况：可以申请 audit exemption\n✨不是贵不贵，是值不值\n很多人觉得 Sdn Bhd 贵，其实是阶段不对\n👉生意还没稳定、没盈利 → 成本当然重\n👉生意稳定、要扩张 → 这是必要的成长成本📈\nSdn Bhd 不是拿来“看起来厉害”， 而是\n👉帮你做结构、控风险、放大生意的工具 👍",
+      "detail_author": "Hello International",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 70.0
+    },
+    {
+      "note_id": "69e8dac8000000001d01a84c",
+      "url": "https://www.xiaohongshu.com/explore/69e8dac8000000001d01a84c?xsec_token=ABVPGjh9Sfok7Dq_4ODnPKipWgGaLhdVxJy30FDE86O1w=&xsec_source=pc_search",
+      "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKipWgGaLhdVxJy30FDE86O1w=",
+      "title": "📊30天AI PM｜把AI搜索用出天花板‼️‼️",
+      "author_name": "Raylin的AI日记",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI PM"
+      ],
+      "liked_count": "38",
+      "comment_count": "2",
+      "search_payload": {
+        "id": "69e8dac8000000001d01a84c",
+        "model_type": "note",
+        "note_card": {
+          "display_title": "📊30天AI PM｜把AI搜索用出天花板‼️‼️",
+          "image_list": [
+            {
+              "height": 1448,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/682002478dea92c4d6f83df7a08649ac/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/63e8839437971212f07fb74fa66175a7/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1086
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "42",
+            "comment_count": "2",
+            "liked": false,
+            "liked_count": "38",
+            "shared_count": "4"
+          },
+          "type": "video",
+          "user": {
+            "nickname": "Raylin的AI日记",
+            "user_id": "589584b75e87e70fb47b0d3e",
+            "xsec_token": "ABnNZvEGNVIZeAOzV3VJtWbHXt4raPwxC4Eh2b4RhzrrY=",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tq9okfvnu0g493ktr2be39u0fis8h8?imageView2/2/w/80/format/jpg",
+            "nick_name": "Raylin的AI日记"
+          },
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "1小时前"
+            }
+          ],
+          "cover": {
+            "height": 1448,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/682002478dea92c4d6f83df7a08649ac/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/63e8839437971212f07fb74fa66175a7/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_prv_1",
+            "width": 1086
+          }
+        },
+        "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKipWgGaLhdVxJy30FDE86O1w="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "📊30天AI PM｜把AI搜索用出天花板‼️‼️",
+      "desc": "#00:11[时刻]# 普通人如何用好AI搜索🔍\n#01:00[时刻]# AI搜索产品对产品经理的启示\n#万物皆可howto[话题]# #AI工具[话题]# #效率神器[话题]# #秘塔[话题]#",
+      "detail_author": "Raylin的AI日记",
+      "detail_type": "video",
+      "collected_count": "43",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 67.0
+    },
+    {
+      "note_id": "69e98b58000000001e00c271",
+      "url": "https://www.xiaohongshu.com/explore/69e98b58000000001e00c271?xsec_token=ABi3XahfuMrYmXbjRkfEzNr2swEuZMeUYtCG7ckfLydh8=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr2swEuZMeUYtCG7ckfLydh8=",
+      "title": "入职影石AI产品岗，月38k＋双休节奏拉满~",
+      "author_name": "AI产品经理-Rome",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI PM"
+      ],
+      "liked_count": "9",
+      "comment_count": "8",
+      "search_payload": {
+        "id": "69e98b58000000001e00c271",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "width": 1916,
+              "height": 2560,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/2c5b402dac18eebfb881a326427cfa62/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/ad8c8af391f0f7548b0368f01c71b604/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/6a22f9626b07ec11b192b0de2f9af57e/notes_pre_post/1040g3k831v9od39l2gdg5q3bea9jfnlq25b6uf0!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/655d2d4b215d4fd9370147791a3cab3f/notes_pre_post/1040g3k831v9od39l2gdg5q3bea9jfnlq25b6uf0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1920
+            },
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/70c2dc4e65b015ce5e0edb4b4bb0f5f2/notes_pre_post/1040g3k831v9od39l2gd05q3bea9jfnlq6okee4g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/95c1535bf42aeb74744c3bb855a6a6c4/notes_pre_post/1040g3k831v9od39l2gd05q3bea9jfnlq6okee4g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1920
+            },
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/839a6ada4f376e0b6712501eb0111481/notes_pre_post/1040g3k831v9od3b62gd05q3bea9jfnlqdllk8u0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/43def5bc00e584f0f0831787afda9ad8/notes_pre_post/1040g3k831v9od3b62gd05q3bea9jfnlqdllk8u0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1920
+            }
+          ],
+          "interact_info": {
+            "liked": false,
+            "liked_count": "9",
+            "shared_count": "2",
+            "collected": false,
+            "collected_count": "7",
+            "comment_count": "8"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qgqmn6ug06g5q3bea9jfnlqiktd4fo?imageView2/2/w/80/format/jpg",
+            "nick_name": "AI产品经理-Rome",
+            "nickname": "AI产品经理-Rome",
+            "user_id": "686b7293000000000d03deba",
+            "xsec_token": "ABwN089l0UHtxQk7R76ETGzd8-BQ03r9bSgQFuDC3MGmc="
+          },
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "1小时前"
+            }
+          ],
+          "cover": {
+            "height": 2560,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/2c5b402dac18eebfb881a326427cfa62/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/ad8c8af391f0f7548b0368f01c71b604/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_prv_1",
+            "width": 1916
+          },
+          "display_title": "入职影石AI产品岗，月38k＋双休节奏拉满~"
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr2swEuZMeUYtCG7ckfLydh8="
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 67.0
+    },
+    {
+      "note_id": "69e98a2e000000001f006918",
+      "url": "https://www.xiaohongshu.com/explore/69e98a2e000000001f006918?xsec_token=ABi3XahfuMrYmXbjRkfEzNrz5ruAvhuWjart-ZRl02J3c=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrz5ruAvhuWjart-ZRl02J3c=",
+      "title": "这些专业转行AI产品经理，不要太合适！",
+      "author_name": "Xing的AI幻想",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI PM"
+      ],
+      "liked_count": "2",
+      "comment_count": "0",
+      "search_payload": {
+        "note_card": {
+          "interact_info": {
+            "collected": false,
+            "collected_count": "2",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "2",
+            "shared_count": "1"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/5569e55e-155d-36eb-9839-cee9a2183d2f?imageView2/2/w/80/format/jpg",
+            "nick_name": "Xing的AI幻想",
+            "nickname": "Xing的AI幻想",
+            "user_id": "64376e820000000014011cf3",
+            "xsec_token": "ABVBKIF-TQy6fCGWoOrXeL021KDbPPdS_rh2TtYSJuapI="
+          },
+          "corner_tag_info": [
+            {
+              "text": "1小时前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 2364,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/c9a9a21faa05e9de782e0a462577d6ce/1040g2sg31v9o8rnb2akg5p1ndq15277jlqqmt9g!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/06e847d0a10da0db9363d4b7a25e79f3/1040g2sg31v9o8rnb2akg5p1ndq15277jlqqmt9g!nc_n_webp_prv_1",
+            "width": 1773
+          },
+          "display_title": "这些专业转行AI产品经理，不要太合适！",
+          "image_list": [
+            {
+              "height": 2364,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/c9a9a21faa05e9de782e0a462577d6ce/1040g2sg31v9o8rnb2akg5p1ndq15277jlqqmt9g!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/06e847d0a10da0db9363d4b7a25e79f3/1040g2sg31v9o8rnb2akg5p1ndq15277jlqqmt9g!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1773
+            }
+          ]
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrz5ruAvhuWjart-ZRl02J3c=",
+        "id": "69e98a2e000000001f006918",
+        "model_type": "note"
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 67.0
+    },
+    {
+      "note_id": "69e99e450000000023010487",
+      "url": "https://www.xiaohongshu.com/explore/69e99e450000000023010487?xsec_token=ABi3XahfuMrYmXbjRkfEzNrzkRlhimPfqGXRUH34S1KXI=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrzkRlhimPfqGXRUH34S1KXI=",
+      "title": "关于我零基础转行AI产品经理学习了哪些知识",
+      "author_name": "Nikki零基础转行AI产品",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI产品经理"
+      ],
+      "liked_count": "3",
+      "comment_count": "0",
+      "search_payload": {
+        "model_type": "note",
+        "note_card": {
+          "interact_info": {
+            "collected": false,
+            "collected_count": "2",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "3",
+            "shared_count": "2"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v1bitba1m005par6bggmove17ete0g?imageView2/2/w/80/format/jpg",
+            "nick_name": "Nikki零基础转行AI产品",
+            "nickname": "Nikki零基础转行AI产品",
+            "user_id": "655b32e100000000020363ee",
+            "xsec_token": "ABPdxBFKdXwYykz9xcSepmHZZHB61L34fdc9vwj6NqVNE="
+          },
+          "corner_tag_info": [
+            {
+              "text": "7分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 1600,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/2052012a2abd32aa6bc8e77a7ee996fb/1040g2sg31v9qpabh2seg5par6bggmove37kapc0!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/36308ada722075d04ef0a08e479a4b1c/1040g2sg31v9qpabh2seg5par6bggmove37kapc0!nc_n_webp_prv_1",
+            "width": 1200
+          },
+          "display_title": "关于我零基础转行AI产品经理学习了哪些知识",
+          "image_list": [
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/2052012a2abd32aa6bc8e77a7ee996fb/1040g2sg31v9qpabh2seg5par6bggmove37kapc0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/36308ada722075d04ef0a08e479a4b1c/1040g2sg31v9qpabh2seg5par6bggmove37kapc0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1200
+            }
+          ]
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNrzkRlhimPfqGXRUH34S1KXI=",
+        "id": "69e99e450000000023010487"
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 67.0
+    },
+    {
+      "note_id": "69e99c37000000001b0029c1",
+      "url": "https://www.xiaohongshu.com/explore/69e99c37000000001b0029c1?xsec_token=ABi3XahfuMrYmXbjRkfEzNr4dAYbrkTxAevtWCwIXgAqk=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr4dAYbrkTxAevtWCwIXgAqk=",
+      "title": "30岁转型上岸宇树AI产品经理|月35k➕双休🎉",
+      "author_name": "大月-求职陪跑",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI产品经理"
+      ],
+      "liked_count": "6",
+      "comment_count": "1",
+      "search_payload": {
+        "id": "69e99c37000000001b0029c1",
+        "model_type": "note",
+        "note_card": {
+          "corner_tag_info": [
+            {
+              "text": "16分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/a42e2aae6371e70aa28cef27e59b3ea9/notes_pre_post/1040g3k031v9o7i4bjm105o98ae0g8do42jrfnsg!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/4cb0e867e157442757064822521a3a7e/notes_pre_post/1040g3k031v9o7i4bjm105o98ae0g8do42jrfnsg!nc_n_webp_prv_1",
+            "width": 1242,
+            "height": 1656
+          },
+          "display_title": "30岁转型上岸宇树AI产品经理|月35k➕双休🎉",
+          "image_list": [
+            {
+              "width": 1242,
+              "height": 1656,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/a42e2aae6371e70aa28cef27e59b3ea9/notes_pre_post/1040g3k031v9o7i4bjm105o98ae0g8do42jrfnsg!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/4cb0e867e157442757064822521a3a7e/notes_pre_post/1040g3k031v9o7i4bjm105o98ae0g8do42jrfnsg!nc_n_webp_prv_1"
+                }
+              ]
+            }
+          ],
+          "interact_info": {
+            "shared_count": "0",
+            "collected": false,
+            "collected_count": "7",
+            "comment_count": "1",
+            "liked": false,
+            "liked_count": "6"
+          },
+          "type": "normal",
+          "user": {
+            "user_id": "612853810000000001003704",
+            "xsec_token": "ABWYN91yxHQQmZHEhmLcGAaZNk39DAouwtfUhH7ZyR1X0=",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/4cc950c8-54c3-30d5-9a1a-be91d85d3d29?imageView2/2/w/80/format/jpg",
+            "nick_name": "大月-求职陪跑",
+            "nickname": "大月-求职陪跑"
+          }
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr4dAYbrkTxAevtWCwIXgAqk="
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 67.0
+    },
+    {
+      "note_id": "69e97f8e0000000021007216",
+      "url": "https://www.xiaohongshu.com/explore/69e97f8e0000000021007216?xsec_token=ABi3XahfuMrYmXbjRkfEzNr2jQe2_VpI-uNgtpftrxxpI=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr2jQe2_VpI-uNgtpftrxxpI=",
+      "title": "这个AI视频生成工具太香了‼️不限次数",
+      "author_name": "AI大师兄",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "liked_count": "",
+      "comment_count": "2",
+      "search_payload": {
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr2jQe2_VpI-uNgtpftrxxpI=",
+        "id": "69e97f8e0000000021007216",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/0afd1f4bdc9bad013548495888bc32a3/notes_pre_post/1040g3k831v9mivp8hu605qavc5qqp5e4ct1t5c8!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/953463ca287ae6b5f4bc4861fd0db87e/notes_pre_post/1040g3k831v9mivp8hu605qavc5qqp5e4ct1t5c8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1141,
+              "height": 1522
+            }
+          ],
+          "interact_info": {
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0",
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "2"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31udipjpdis005qavc5qqp5e4174k580?imageView2/2/w/80/format/jpg",
+            "nick_name": "AI大师兄",
+            "nickname": "AI大师兄",
+            "user_id": "695f6175000000002b0095c4",
+            "xsec_token": "ABkUT3JNXq_Z1F7TWePP7ziyk3ACuQt4u0FMkbi38kwf0="
+          },
+          "corner_tag_info": [
+            {
+              "text": "19分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 1522,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/0afd1f4bdc9bad013548495888bc32a3/notes_pre_post/1040g3k831v9mivp8hu605qavc5qqp5e4ct1t5c8!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/953463ca287ae6b5f4bc4861fd0db87e/notes_pre_post/1040g3k831v9mivp8hu605qavc5qqp5e4ct1t5c8!nc_n_webp_prv_1",
+            "width": 1141
+          },
+          "display_title": "这个AI视频生成工具太香了‼️不限次数"
+        }
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "这个AI视频生成工具太香了‼️不限次数",
+      "desc": "AI短视频到底怎么做？总算摸透了，干货全部分享给大家～\n只需输入文案，挑选喜欢风格！轻松生成成片🎬\n不用排队等待，出片效率超高\n智能自动生成画面，零基础不用手动剪辑✅\nAI配音+专属字幕全自动匹配，省心又高效👍\n超长3000字脚本，也能一键转换成动画🎬\n支持文生视频、图片转动画双模式\n海量静态+动态模板任选，款式超多😎\n风格种类丰富多样，实用性拉满\n漫剧、科普短片、动画作业、企业宣传、教学课件全都能轻松制作\n#ai生成视频[话题]##ai短视频制作[话题]# #ai制作视频[话题]# #AI生成视频脚本[话题]# #ai文生视频[话题]##ai图生视频[话题]##ai短视频带货[话题]# #ai动画制作[话题]# #ai动画生成[话题]# #ai数字人短视频制作[话题]##ai视频工具[话题]##ai生成视频工具[话题]# #ai短视频工具[话题]# #免费ai视频工具[话题]# #免费ai工具[话题]# #免费AI生视频[话题]##免费AI生视频[话题]# #AI免费生成视频[话题]#",
+      "detail_author": "AI大师兄",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "69e8ded1000000001a025b39",
+      "url": "https://www.xiaohongshu.com/explore/69e8ded1000000001a025b39?xsec_token=ABVPGjh9Sfok7Dq_4ODnPKinqcZwteX3jpkVTUXXwy3Gw=&xsec_source=pc_search",
+      "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKinqcZwteX3jpkVTUXXwy3Gw=",
+      "title": "AI写小说指令合集！顶级喂饭指令！🐮",
+      "author_name": "AIGC 装备库",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "liked_count": "10",
+      "comment_count": "6",
+      "search_payload": {
+        "note_card": {
+          "display_title": "AI写小说指令合集！顶级喂饭指令！🐮",
+          "image_list": [
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/e75b7409e805dbf9f837be451298358c/notes_pre_post/1040g3k831v93d1km2i705ndthk508bffot4sar0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/d1cbb7b26bcb0af34822c1e8cdae2cb6/notes_pre_post/1040g3k831v93d1km2i705ndthk508bffot4sar0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/7327b4dc6b37fcdb2af6807bde10b637/notes_pre_post/1040g3k831v93d1km2i7g5ndthk508bffts8b4ig!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/302c38169166e19291dea32b12799e8a/notes_pre_post/1040g3k831v93d1km2i7g5ndthk508bffts8b4ig!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/925e0fac21678329c7ed025725e27426/notes_pre_post/1040g3k831v93d1km2i805ndthk508bffavori1g!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/415e944607cf8a97845cc5284100f2ff/notes_pre_post/1040g3k831v93d1km2i805ndthk508bffavori1g!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/57f1f59aa640d69ca0e23d153b1314cf/notes_pre_post/1040g3k831v93d1km2i8g5ndthk508bffmcsb7eg!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/d0f5a39449f110ce425d87c540d99e06/notes_pre_post/1040g3k831v93d1km2i8g5ndthk508bffmcsb7eg!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "width": 1242,
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/68768f83f7622aa5d59099c6295c5752/notes_pre_post/1040g3k831v93d1km2i905ndthk508bffsmqu6ko!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/a0ec92b9e22206348bab9ef2ad4db764/notes_pre_post/1040g3k831v93d1km2i905ndthk508bffsmqu6ko!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/1d243e7ff4355a3e6e68c2dedcd175d3/notes_pre_post/1040g3k831v93d1km2i9g5ndthk508bffni0ge1g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/9c6212fa0ccb0282a91da6e2ad81773e/notes_pre_post/1040g3k831v93d1km2i9g5ndthk508bffni0ge1g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242,
+              "height": 1660
+            },
+            {
+              "width": 1242,
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/702a2db53911827eb1a6dca290959454/notes_pre_post/1040g3k831v93d1km2iag5ndthk508bff5nhfj58!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/2e916898ad8c5d2887e75303bee3fe57/notes_pre_post/1040g3k831v93d1km2iag5ndthk508bff5nhfj58!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/baa4de9165220d770f227ac77f658758/notes_pre_post/1040g3k831v93d1km2ia05ndthk508bff2mblr90!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/e873d85e518a9a18700e67f2dca8e240/notes_pre_post/1040g3k831v93d1km2ia05ndthk508bff2mblr90!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/a98a6790316aa0da9b29def99de26beb/notes_pre_post/1040g3k831v93d1km2ib05ndthk508bffnk9l03g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/3883e9009155e1c4f2a5e47a9020d8f5/notes_pre_post/1040g3k831v93d1km2ib05ndthk508bffnk9l03g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/7c15f22ff24a2823bc688190fa9504e9/notes_pre_post/1040g3k831v93d1km2ibg5ndthk508bff7l3impg!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/129098fd4cba10ed1600e282b23215e9/notes_pre_post/1040g3k831v93d1km2ibg5ndthk508bff7l3impg!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/238513ca0aebece4ca95d7a4d1be105a/notes_pre_post/1040g3k831v93d1km2ic05ndthk508bff2ho07ro!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/e11d17534f23e46c655865f34fd5926f/notes_pre_post/1040g3k831v93d1km2ic05ndthk508bff2ho07ro!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            },
+            {
+              "height": 1660,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/783bb769ca0afa641977ab0c16d6908c/notes_pre_post/1040g3k831v93d1km2icg5ndthk508bff6vumkug!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/f27504ce85a2a99e758f8fd58cdec422/notes_pre_post/1040g3k831v93d1km2icg5ndthk508bff6vumkug!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1242
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "9",
+            "comment_count": "6",
+            "liked": false,
+            "liked_count": "10",
+            "shared_count": "1"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6611299bf92b9324c35b4190.jpg?imageView2/2/w/80/format/jpg",
+            "nick_name": "AIGC 装备库",
+            "nickname": "AIGC 装备库",
+            "user_id": "5dbd8d0a0000000001002def",
+            "xsec_token": "AB1XVfPodHRBa5pIS-BBWSAlj-toEZNjKj1g35ufwh0p8="
+          },
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "1小时前"
+            }
+          ],
+          "cover": {
+            "height": 1660,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/e75b7409e805dbf9f837be451298358c/notes_pre_post/1040g3k831v93d1km2i705ndthk508bffot4sar0!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/d1cbb7b26bcb0af34822c1e8cdae2cb6/notes_pre_post/1040g3k831v93d1km2i705ndthk508bffot4sar0!nc_n_webp_prv_1",
+            "width": 1242
+          }
+        },
+        "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKinqcZwteX3jpkVTUXXwy3Gw=",
+        "id": "69e8ded1000000001a025b39",
+        "model_type": "note"
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "AI写小说指令合集！顶级喂饭指令！🐮",
+      "desc": "#ai关键词[话题]# #写作技巧[话题]# #我的写作日常[话题]# #一起写小说[话题]# #网文作者[话题]# #网文小说[话题]# #AI工具[话题]# #网络小说[话题]# #写作[话题]# #写小说[话题]#",
+      "detail_author": "AIGC 装备库",
+      "detail_type": "normal",
+      "collected_count": "9",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 54.0
+    },
+    {
+      "note_id": "69e9893c000000001f00378b",
+      "url": "https://www.xiaohongshu.com/explore/69e9893c000000001f00378b?xsec_token=AB5DaNJdARCpdVsMDtxN31ocuuBsE6H3kueWLNcOmCBXg=&xsec_source=pc_search",
+      "xsec_token": "AB5DaNJdARCpdVsMDtxN31ocuuBsE6H3kueWLNcOmCBXg=",
+      "title": "科普视频专业老师推荐的视频制作工具免💰用",
+      "author_name": "资料大全呀",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "liked_count": "",
+      "comment_count": "12",
+      "search_payload": {
+        "id": "69e9893c000000001f00378b",
+        "model_type": "note",
+        "note_card": {
+          "user": {
+            "avatar": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhpTf9y9vJ_-IR6PFcQ1Fd0RkWtdaTdC1BTWXvkYd0JvGBJ6mzTqcYg_dCMVnveqCS9TJHdwJy7HLnY4s3RPr2jq4jLefZPBhXDre7Wyq2ywOrYnaZrcYG_SNYwzv5p-E0TEKsDa2PHWkAc27TipCzjp#?v=cb1",
+            "nick_name": "资料大全呀",
+            "nickname": "资料大全呀",
+            "user_id": "685aada4000000001b01b92d",
+            "xsec_token": "ABS14SsPK6XbAxnVQqw-wMopgLtb9Xk3-DfeeDs6qZ9V4="
+          },
+          "corner_tag_info": [
+            {
+              "text": "1小时前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/cc6a1dbc9cadf55c4ec058977697a8b3/1040g2sg31v9o2js83qe05q2qlmi6re9d9jfs00o!nc_n_webp_prv_1?v=cb1",
+            "width": 1200,
+            "height": 1600,
+            "url_default": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhrHU9NoYyOGSyJpbhWW-h2ApvkwidJOnFPM8UR3wG3Jyk9ubBdSlZdTO2B4g8UOCvMNobJKucRARX4JjbvG5JIdFL-wwlenSdYp-Uja3_AqncQR2owQkfn0h5_t3OLz5PSUaN6ubWyyVBsyDQRVEDGOj5Rdi-YVMPAH7A_-cV1ppBDSXpKu46y0XEV8GSr_JwY=#?v=cb1"
+          },
+          "display_title": "科普视频专业老师推荐的视频制作工具免💰用",
+          "image_list": [
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhrHU9NoYyOGSyJpbhWW-h2ApvkwidJOnFPM8UR3wG3Jyk9ubBdSlZdTO2B4g8UOCvMNobJKucRARX4JjbvG5JIdFL-wwlenSdYp-Uja3_AqncQR2owQkfn0h5_t3OLz5PSUaN6ubWyyVBsyDQRVEDGOj5Rdi-YVMPAH7A_-cV1ppBDSXpKu46y0XEV8GSr_JwY=#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423122911/69d62caf-16fe-4174-9126-e2920b286406?u=U5V_xfiseRp3RtXb0V_4hXybgGsNvdek7qWGvJa46CdrpuWEAvVQOBkVX5n5BEMXqTofi8Hutxaci4NtFqUorc7u1MbR5A0ds8XdjBjihhrHU9NoYyOGSyJpbhWW-h2ApvkwidJOnFPM8UR3wG3Jyr3u0qjdbFxhF3mQWtpUHowtT_6o9bLIhuB8-a3lF8LkTBAlIUX8fqgR-NGCarbBax1L9UdFBlS_qkefKxFff2oBu68IJZJFmN44Ar-0_z2TCUwfScM9UGEyzQUX-Xn285VaBqlKZ8SaYue88x6Ir-g=#?v=cb1"
+                }
+              ],
+              "width": 1200
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "12",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "1"
+          },
+          "type": "normal"
+        },
+        "xsec_token": "AB5DaNJdARCpdVsMDtxN31ocuuBsE6H3kueWLNcOmCBXg="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "科普视频专业老师推荐的视频制作工具免💰用",
+      "desc": "做视频工具就是信息差，我也是知道了后，才知道还有这么好用的。\n主要用途如下：\n微课/优质课/公开课/科普视频/学生作业/单位宣传/短剧/漫剧都行。\n文案或者脚本输入，模板一选，自动配音+字幕一键成片\n免费不限制次数\n手机电脑都可以\n24小时自动发货，拍下即用，真的很方便。\n#ai视频生成教程[话题]# #ai视频制作[话题]# #ai视频生成[话题]# #数字人怎么制作[话题]# #ai生成视频[话题]# #数字人视频制作[话题]# #数字人免费制作平台[话题]# #ai视频生成app[话题]# #ai视频生成软件[话题]# #ai视频怎么制作[话题]# #ai视频免费制作[话题]# #免费ai生成视频[话题]# #怎么用ai做视频[话题]# #ai漫剧制作教程[话题]# #ai动画视频怎么制作[话题]# #生成视频的ai工具[话题]# #ai数字人[话题]# #ai生成视频哪个软件好[话题]# #ai生成视频免费[话题]# #怎么制作ai视频[话题]# #ai视频代做接单[话题]# #ai动画制作[话题]# #数字人视频制作[话题]# #AI生成[话题]# #视频制作教程[话题]# #短视频运营[话题]# #内容生成[话题]# #AI应用[话题]# #视频创作[话题]# #ai制作视频哪个软件好用[话题]#",
+      "detail_author": "资料大全呀",
+      "detail_type": "normal",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "值得点开",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 12
+      },
+      "total_score": 52.0
+    },
+    {
+      "note_id": "69e8c93f0000000023013510",
+      "url": "https://www.xiaohongshu.com/explore/69e8c93f0000000023013510?xsec_token=ABVPGjh9Sfok7Dq_4ODnPKilB6GKgM_xqh9-C2SlVsRLg=&xsec_source=pc_search",
+      "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKilB6GKgM_xqh9-C2SlVsRLg=",
+      "title": "Vlog途道AI新品交流会‼️Ai黑科技太酷了✅",
+      "author_name": "大福妈妈有梨涡",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI产品"
+      ],
+      "liked_count": "7",
+      "comment_count": "5",
+      "search_payload": {
+        "id": "69e8c93f0000000023013510",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "width": 1440,
+              "height": 1920,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/8c27c32845915b860f9065e3efb7147f/1040g2sg31v90isn1jm705o1qciu08cu57u68l80!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/6f95b6ccd5a443dce425453d0a6c07cc/1040g2sg31v90isn1jm705o1qciu08cu57u68l80!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ]
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "2",
+            "comment_count": "5",
+            "liked": false,
+            "liked_count": "7",
+            "shared_count": "4"
+          },
+          "type": "video",
+          "user": {
+            "nickname": "大福妈妈有梨涡",
+            "user_id": "603a64bc00000000010033c5",
+            "xsec_token": "AB1r-PbhoiNqryswnFmvCCA1v_eorKJjZHujovgm6jobc=",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo317hc38ak0m005o1qciu08cu573pk6ao?imageView2/2/w/80/format/jpg",
+            "nick_name": "大福妈妈有梨涡"
+          },
+          "corner_tag_info": [
+            {
+              "text": "昨天 21:12",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/6f95b6ccd5a443dce425453d0a6c07cc/1040g2sg31v90isn1jm705o1qciu08cu57u68l80!nc_n_webp_prv_1",
+            "width": 1440,
+            "height": 1920,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/8c27c32845915b860f9065e3efb7147f/1040g2sg31v90isn1jm705o1qciu08cu57u68l80!nc_n_webp_mw_1"
+          },
+          "display_title": "Vlog途道AI新品交流会‼️Ai黑科技太酷了✅"
+        },
+        "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKilB6GKgM_xqh9-C2SlVsRLg="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "Vlog途道AI新品交流会‼️Ai黑科技太酷了✅",
+      "desc": "好久不见Vlog系列！\n受邀来到途道AI新品交流会现场\n沉浸式感受科技与创造力的碰撞\n途道真的不只是玩具公司\n在AI快速发展的时代\n他们一直都有自己愿意为之奋斗的使命！\n新品藏着满满的黑科技\n也给我带来了新的启发\n科技越发达我们越要警觉停滞不前的想法\n\t\n保持学习，保持好奇\n去拥抱时代的变化！\n也期待未来，用更前沿的陪伴\n守护孩子的每一份想象力\n#开发孩子想象力创造力[话题]# #直播预告[话题]# #AI人工智能[话题]# #科技改变生活方式[话题]# #vlog日常[话题]# #途道积木[话题]# #科技与创新[话题]# #ai教育[话题]#",
+      "detail_author": "大福妈妈有梨涡",
+      "detail_type": "video",
+      "collected_count": "2",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 3,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 51.0
+    },
+    {
+      "note_id": "69e88989000000002100455c",
+      "url": "https://www.xiaohongshu.com/explore/69e88989000000002100455c?xsec_token=ABVPGjh9Sfok7Dq_4ODnPKik7QnHMXz19jl_OR0mS9b0g=&xsec_source=pc_search",
+      "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKik7QnHMXz19jl_OR0mS9b0g=",
+      "title": "终于等到你  AI 水光机器人！",
+      "author_name": "GEMO 金茉",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI产品"
+      ],
+      "liked_count": "2",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e88989000000002100455c",
+        "model_type": "note",
+        "note_card": {
+          "corner_tag_info": [
+            {
+              "text": "昨天 16:40",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/dbf842be8efa56522cc35accbf4dab1b/spectrum/1040g34o31v8ov3bb1u105o7p1ie85k7hbhqcnuo!nc_n_webp_prv_1",
+            "width": 2274,
+            "height": 3033,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/91da2533c01c3ee72157d81b9770f0f3/spectrum/1040g34o31v8ov3bb1u105o7p1ie85k7hbhqcnuo!nc_n_webp_mw_1"
+          },
+          "display_title": "终于等到你  AI 水光机器人！",
+          "image_list": [
+            {
+              "height": 3033,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/91da2533c01c3ee72157d81b9770f0f3/spectrum/1040g34o31v8ov3bb1u105o7p1ie85k7hbhqcnuo!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/dbf842be8efa56522cc35accbf4dab1b/spectrum/1040g34o31v8ov3bb1u105o7p1ie85k7hbhqcnuo!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2274
+            }
+          ],
+          "interact_info": {
+            "shared_count": "1",
+            "collected": false,
+            "collected_count": "1",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "2"
+          },
+          "type": "video",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6835c08cbcf9fe1bd9b5707d.jpg?imageView2/2/w/80/format/jpg",
+            "nick_name": "GEMO 金茉",
+            "nickname": "GEMO 金茉",
+            "user_id": "60f90c9c000000002002d0f1",
+            "xsec_token": "AByai5rYZxPpfRSgwYz0Xu15c7PlI3pvLntkI7-K0EJNs="
+          }
+        },
+        "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKik7QnHMXz19jl_OR0mS9b0g="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "终于等到你  AI 水光机器人！",
+      "desc": "行业首款 AI 水光机器人——#金茉智能水光仪[话题]# 重磅来袭！ 仪器搭载智能大脑 MOMO 正式启动，13 颗 AI 芯片，集合全球水光大师的经验！ 实时看懂你的皮肤和周围环境，还原大师手法力度，脸部分区分层护理，自动调档。无需手法，无创无痛，在家享受大师级水光护理！#金茉水光[话题]#  #金茉AI智能水光仪[话题]#",
+      "detail_author": "GEMO 金茉",
+      "detail_type": "video",
+      "collected_count": "1",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 3,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 41.0
+    },
+    {
+      "note_id": "69e82ff70000000020038b77",
+      "url": "https://www.xiaohongshu.com/explore/69e82ff70000000020038b77?xsec_token=ABVPGjh9Sfok7Dq_4ODnPKivDroUomFUFD6r7-RVIdjCU=&xsec_source=pc_search",
+      "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKivDroUomFUFD6r7-RVIdjCU=",
+      "title": "",
+      "author_name": "金运耳机店",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI产品"
+      ],
+      "liked_count": "",
+      "comment_count": "",
+      "search_payload": {
+        "id": "69e82ff70000000020038b77",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "height": 1920,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/8ebd97b7acd2a732d104392a016c23e2/spectrum/1040g34o31v8e2h021u0g5q222cimr8pep1gmbe0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/22f81319b0fa34faecebf4de322cc3d6/spectrum/1040g34o31v8e2h021u0g5q222cimr8pep1gmbe0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1080
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0"
+          },
+          "type": "video",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31olndcjnmm005q222cimr8peq3jvjtg?imageView2/2/w/80/format/jpg",
+            "nick_name": "金运耳机店",
+            "nickname": "金运耳机店",
+            "user_id": "68421325000000001b01a32e",
+            "xsec_token": "ABiDD1QTmzGgal_GsfdHZXwkTfln0jVxJ6zqg2S7Fe454="
+          },
+          "corner_tag_info": [
+            {
+              "text": "11分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 1920,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/8ebd97b7acd2a732d104392a016c23e2/spectrum/1040g34o31v8e2h021u0g5q222cimr8pep1gmbe0!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/22f81319b0fa34faecebf4de322cc3d6/spectrum/1040g34o31v8e2h021u0g5q222cimr8pep1gmbe0!nc_n_webp_prv_1",
+            "width": 1080
+          },
+          "display_title": ""
+        },
+        "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKivDroUomFUFD6r7-RVIdjCU="
+      },
+      "detail_ok": true,
+      "detail_msg": "成功",
+      "detail_title": "",
+      "desc": "三大 AI 大模型深度接入：翻译准、理解强，不止翻译，更是你的全能 AI 助理！\n# 金运 A30 #翻译耳机 #AI 黑科技 #智能生活 #效率神器",
+      "detail_author": "金运耳机店",
+      "detail_type": "video",
+      "collected_count": "",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 3,
+        "novelty": 1,
+        "clarity": 1,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 39.0
+    },
+    {
+      "note_id": "69e99dc8000000001a027d57",
+      "url": "https://www.xiaohongshu.com/explore/69e99dc8000000001a027d57?xsec_token=ABi3XahfuMrYmXbjRkfEzNr4GOE3LmG7Q9JeLS1SBMktA=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr4GOE3LmG7Q9JeLS1SBMktA=",
+      "title": "mhy 二面",
+      "author_name": "郁金香（找实习ing）",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI产品经理"
+      ],
+      "liked_count": "1",
+      "comment_count": "0",
+      "search_payload": {
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr4GOE3LmG7Q9JeLS1SBMktA=",
+        "id": "69e99dc8000000001a027d57",
+        "model_type": "note",
+        "note_card": {
+          "corner_tag_info": [
+            {
+              "text": "9分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231229/1444d65a509b9e63ba9c31e411bcc208/1040g2sg31v9qmgne2i0049m8r4p64cq6ov9lf6g!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231229/5f0e9256439c69ef5ce73aafc4ee7bf8/1040g2sg31v9qmgne2i0049m8r4p64cq6ov9lf6g!nc_n_webp_prv_1",
+            "width": 1200,
+            "height": 1600
+          },
+          "display_title": "mhy 二面",
+          "image_list": [
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/1444d65a509b9e63ba9c31e411bcc208/1040g2sg31v9qmgne2i0049m8r4p64cq6ov9lf6g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231229/5f0e9256439c69ef5ce73aafc4ee7bf8/1040g2sg31v9qmgne2i0049m8r4p64cq6ov9lf6g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1200
+            }
+          ],
+          "interact_info": {
+            "liked_count": "1",
+            "shared_count": "0",
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0",
+            "liked": false
+          },
+          "type": "normal",
+          "user": {
+            "xsec_token": "ABsskEjSRZjc36v6qmQv-h2yDgVuL9tM7yzaItRGWQdKE=",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v90oqe4ia0049m8r4p64cq688vqb8o?imageView2/2/w/80/format/jpg",
+            "nick_name": "郁金香（找实习ing）",
+            "nickname": "郁金香（找实习ing）",
+            "user_id": "596cb2624f8fd64ac9523346"
+          }
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 1,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 27.0
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+version: "0.1"
+agent_name: "xhs-ai-digest-agent"
+profile:
+  digest_style: "ai_product_intel"
+  timezone: "Asia/Shanghai"
+  delivery_window: "evening"
+  max_read_time_minutes: 2
+
+sources:
+  keywords:
+    - "AI产品"
+    - "AI工具"
+    - "Agent"
+    - "AI PM"
+    - "AI产品经理"
+  priority_authors:
+    - "秋芝2046"
+    - "游离态"
+    - "树皮说AI"
+    - "萝卜聊产品"
+    - "张咋啦"
+    - "Super Winnie"
+    - "哈哈du（AI版）"
+  watch_authors:
+    - "产品经理毛毛"
+    - "小栗产品笔记"
+    - "一乐 Yile"
+    - "Celia在学AI"
+    - "今天AI了什么"
+    - "艾逗笔"
+    - "Link（学习AI中）"
+    - "机器坏人（AI版）"
+    - "猴子哥"
+    - "Ristar"
+  exclude_keywords:
+    - "招聘"
+    - "简历"
+    - "秋招"
+    - "春招"
+    - "面经"
+    - "刷题"
+    - "部署教程"
+    - "保姆级教程"
+    - "卖课"
+    - "训练营"
+    - "私信"
+    - "加群"
+  recency_hours: 24
+  max_candidates_per_keyword: 20
+  max_candidates_per_author: 10
+
+ranking:
+  daily_item_limit: 10
+  top_pick_limit: 3
+  priority_author_boost: 35
+  watch_author_boost: 18
+  keyword_match_boost: 12
+  freshness_weight: 20
+  engagement_weight: 8
+  duplicate_policy: "keep_best_only"
+  prefer_priority_authors: true
+  suppress_low_signal_tutorials: true
+  cluster_similar_topics: true
+  keep_content_if:
+    - "has_new_product_or_feature"
+    - "contains_first_hand_opinion"
+    - "is_high_quality_source_roundup"
+    - "has_clear_takeaway_or_conclusion"
+    - "is_directly_relevant_to_ai_product_work"
+  top_pick_scoring:
+    score_range: "0-5 per dimension"
+    weights:
+      theme_relevance: 35
+      novelty: 25
+      clarity: 20
+      usefulness: 15
+      engagement: 0
+    boosts:
+      priority_author: 12
+      watch_author: 6
+    penalties:
+      duplicate_topic: 10
+      low_signal_tutorial: 8
+      clickbait_or_leadgen: 12
+    thresholds:
+      min_theme_relevance: 4
+      min_novelty: 3
+      min_clarity: 3
+      require_at_least_two:
+        - "has_new_information"
+        - "has_clear_conclusion"
+        - "is_directly_useful_for_ai_product_work"
+    hard_exclusions:
+      - "招聘"
+      - "简历"
+      - "秋招"
+      - "春招"
+      - "面经"
+      - "刷题"
+      - "泛编程教程"
+      - "纯部署教程"
+      - "卖课"
+      - "引流"
+      - "私信"
+      - "加群"
+      - "重复搬运"
+    dimension_definitions:
+      theme_relevance:
+        "5": "直接讲AI产品、AI工具、Agent、AI PM、AI产品经理"
+        "3": "相关但偏外围，如泛AI效率或泛行业观察"
+        "1": "擦边相关"
+        "0": "基本无关"
+      novelty:
+        "5": "明确出现新产品、新功能、新观点、新信息源或新结论"
+        "3": "有一定新信息，但增量一般"
+        "1": "基本是旧话重说"
+        "0": "纯重复或纯感想"
+      clarity:
+        "5": "有明确结论或明确判断，一句话可讲清"
+        "3": "可总结但略散"
+        "1": "主要是过程记录"
+        "0": "空泛表达，看完不知道重点"
+      usefulness:
+        "5": "对AI产品判断、工具选择、信息源跟踪或PM思考直接有帮助"
+        "3": "有启发但不直接"
+        "1": "帮助很弱"
+        "0": "几乎无帮助"
+      engagement:
+        "5": "明显高互动"
+        "3": "一般互动"
+        "1": "低互动"
+        "0": "几乎无互动"
+
+judging:
+  labels:
+    - "值得点开"
+    - "重点博主更新"
+    - "快速略过"
+  worth_click_rules:
+    - "新产品或新功能"
+    - "一手观点或真实观察"
+    - "高质量信息源汇总"
+    - "有明确结论的拆解"
+    - "和AI产品工作直接相关"
+  skip_rules:
+    - "招聘和简历内容"
+    - "泛编程教程"
+    - "纯部署教程"
+    - "卖课或强引流"
+    - "重复搬运或信息增量很低"
+
+summary:
+  tone: "AI产品情报"
+  max_chars: 20
+  min_chars: 8
+  include_label: false
+  include_author: true
+  include_publish_time: false
+  include_link: true
+  fallback: "compressed_title"
+  forbid_full_text_copy: true
+  template: "{summary}"
+
+output:
+  format: "markdown"
+  path_pattern: "reports/{date}.md"
+  sections:
+    - key: "top_picks"
+      title: "今日最值得点开的 3 条"
+      limit: 3
+    - key: "priority_updates"
+      title: "重点博主更新"
+      limit: 4
+    - key: "other_worthy"
+      title: "其他值得看的内容"
+      limit: 3
+    - key: "quick_skips"
+      title: "快速略过内容摘要"
+      limit: 5
+  overview_fields:
+    - "今日筛出总条数"
+    - "最高优先级3条"
+    - "今日主题聚合"
+  future_notifiers:
+    - "feishu_card"
+
+implementation_notes:
+  data_source: "Spider_XHS"
+  runtime_shell: "Coze Agent"
+  rule_storage:
+    hard_rules: "yaml config"
+    soft_rules: "knowledge doc"

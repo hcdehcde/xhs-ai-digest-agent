@@ -1,0 +1,6 @@
+{
+  "date": "2026-04-25",
+  "status": "failed",
+  "reason": "network_unavailable",
+  "message": "Cookie validation unavailable due to network error: HTTPSConnectionPool(host='edith.xiaohongshu.com', port=443): Max retries exceeded with url: /api/sns/web/v1/user/selfinfo (Caused by NameResolutionError(\"HTTPSConnection(host='edith.xiaohongshu.com', port=443): Failed to resolve 'edith.xiaohongshu.com' ([Errno 8] nodename nor servname provided, or not known)\")). 当前环境无法访问小红书接口，请先检查 DNS 或网络连通性。"
+}

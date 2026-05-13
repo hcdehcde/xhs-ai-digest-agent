@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.codex.xhs-digest</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>-B</string>
+    <string>__ROOT__/run_daily_digest.py</string>
+    <string>--send-feishu</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>__ROOT__</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>22</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>__ROOT__/reports/launchd.stdout.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>__ROOT__/reports/launchd.stderr.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>EXECJS_RUNTIME</key>
+    <string>Node</string>
+    <key>PYTHONDONTWRITEBYTECODE</key>
+    <string>1</string>
+    <key>XHS_SEND_FEISHU</key>
+    <string>1</string>
+  </dict>
+</dict>
+</plist>

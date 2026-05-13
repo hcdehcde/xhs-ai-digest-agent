@@ -1,0 +1,1973 @@
+{
+  "generated_at": "2026-04-23 12:46:04",
+  "summary": {
+    "total_candidates": 29,
+    "deduped_candidates": 29,
+    "kept_candidates": 19
+  },
+  "top_picks": [
+    {
+      "note_id": "675e8be3000000000202477f",
+      "url": "https://www.xiaohongshu.com/explore/675e8be3000000000202477f?xsec_token=AByrUDPM0FHwuFRuXkTrK_r-a60eAtBKhtwy43uctrLVI=&xsec_source=pc_search",
+      "xsec_token": "AByrUDPM0FHwuFRuXkTrK_r-a60eAtBKhtwy43uctrLVI=",
+      "title": "历时1年半 17w+字 商业化50讲总算更新完结",
+      "author_name": "萝卜聊产品",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "5208",
+      "comment_count": null,
+      "search_payload": {
+        "note_id": "675e8be3000000000202477f",
+        "xsec_token": "AByrUDPM0FHwuFRuXkTrK_r-a60eAtBKhtwy43uctrLVI=",
+        "type": "normal",
+        "display_title": "历时1年半 17w+字 商业化50讲总算更新完结",
+        "user": {
+          "nick_name": "萝卜聊产品",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/62b84b46cf141239c5d814d2.jpg",
+          "user_id": "5b2b0416f7e8b92837d188b2",
+          "nickname": "萝卜聊产品"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "5208",
+          "sticky": true
+        },
+        "cover": {
+          "height": 1991,
+          "width": 1179,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/8f7484b71699e7337743b4ac6dfcbcc1/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/134b6c3e97f799ecaeafc70d2ccc82bd/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/8f7484b71699e7337743b4ac6dfcbcc1/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/134b6c3e97f799ecaeafc70d2ccc82bd/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_mw_1",
+          "file_id": ""
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 86.0
+    },
+    {
+      "note_id": "69bb8215000000001e00d646",
+      "url": "https://www.xiaohongshu.com/explore/69bb8215000000001e00d646?xsec_token=AB59OgtxkelSu8g1pSq4QYyhT7X6JsEYaIHpNL1PGu_zE=&xsec_source=pc_search",
+      "xsec_token": "AB59OgtxkelSu8g1pSq4QYyhT7X6JsEYaIHpNL1PGu_zE=",
+      "title": "把我推荐的AI高质量信息源做成了skill！",
+      "author_name": "张咋啦",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "7671",
+      "comment_count": null,
+      "search_payload": {
+        "cover": {
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3061921d13646879cf662f84e0c2bf25/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/7953f8df28d7bb3e92ec70c97ecb62cc/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/3061921d13646879cf662f84e0c2bf25/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/7953f8df28d7bb3e92ec70c97ecb62cc/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1226,
+          "width": 1080
+        },
+        "note_id": "69bb8215000000001e00d646",
+        "xsec_token": "AB59OgtxkelSu8g1pSq4QYyhT7X6JsEYaIHpNL1PGu_zE=",
+        "type": "video",
+        "display_title": "把我推荐的AI高质量信息源做成了skill！",
+        "user": {
+          "nick_name": "张咋啦",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fl1gsq2g40049mmbftcr46vum9nk9o",
+          "user_id": "59757acd50c4b45e6e9a90df",
+          "nickname": "张咋啦"
+        },
+        "interact_info": {
+          "sticky": true,
+          "liked": false,
+          "liked_count": "7671"
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 76.0
+    }
+  ],
+  "candidates": [
+    {
+      "note_id": "675e8be3000000000202477f",
+      "url": "https://www.xiaohongshu.com/explore/675e8be3000000000202477f?xsec_token=AByrUDPM0FHwuFRuXkTrK_r-a60eAtBKhtwy43uctrLVI=&xsec_source=pc_search",
+      "xsec_token": "AByrUDPM0FHwuFRuXkTrK_r-a60eAtBKhtwy43uctrLVI=",
+      "title": "历时1年半 17w+字 商业化50讲总算更新完结",
+      "author_name": "萝卜聊产品",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "5208",
+      "comment_count": null,
+      "search_payload": {
+        "note_id": "675e8be3000000000202477f",
+        "xsec_token": "AByrUDPM0FHwuFRuXkTrK_r-a60eAtBKhtwy43uctrLVI=",
+        "type": "normal",
+        "display_title": "历时1年半 17w+字 商业化50讲总算更新完结",
+        "user": {
+          "nick_name": "萝卜聊产品",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/62b84b46cf141239c5d814d2.jpg",
+          "user_id": "5b2b0416f7e8b92837d188b2",
+          "nickname": "萝卜聊产品"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "5208",
+          "sticky": true
+        },
+        "cover": {
+          "height": 1991,
+          "width": 1179,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/8f7484b71699e7337743b4ac6dfcbcc1/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/134b6c3e97f799ecaeafc70d2ccc82bd/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/8f7484b71699e7337743b4ac6dfcbcc1/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/134b6c3e97f799ecaeafc70d2ccc82bd/1040g2sg31h15gt393ue04a6epr21d25i41guh88!nc_n_webp_mw_1",
+          "file_id": ""
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 5,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 86.0
+    },
+    {
+      "note_id": "69bb8215000000001e00d646",
+      "url": "https://www.xiaohongshu.com/explore/69bb8215000000001e00d646?xsec_token=AB59OgtxkelSu8g1pSq4QYyhT7X6JsEYaIHpNL1PGu_zE=&xsec_source=pc_search",
+      "xsec_token": "AB59OgtxkelSu8g1pSq4QYyhT7X6JsEYaIHpNL1PGu_zE=",
+      "title": "把我推荐的AI高质量信息源做成了skill！",
+      "author_name": "张咋啦",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "7671",
+      "comment_count": null,
+      "search_payload": {
+        "cover": {
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3061921d13646879cf662f84e0c2bf25/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/7953f8df28d7bb3e92ec70c97ecb62cc/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/3061921d13646879cf662f84e0c2bf25/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/7953f8df28d7bb3e92ec70c97ecb62cc/1040g2sg31tspph2l7q7049mmbftcr46v75ak5vo!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1226,
+          "width": 1080
+        },
+        "note_id": "69bb8215000000001e00d646",
+        "xsec_token": "AB59OgtxkelSu8g1pSq4QYyhT7X6JsEYaIHpNL1PGu_zE=",
+        "type": "video",
+        "display_title": "把我推荐的AI高质量信息源做成了skill！",
+        "user": {
+          "nick_name": "张咋啦",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fl1gsq2g40049mmbftcr46vum9nk9o",
+          "user_id": "59757acd50c4b45e6e9a90df",
+          "nickname": "张咋啦"
+        },
+        "interact_info": {
+          "sticky": true,
+          "liked": false,
+          "liked_count": "7671"
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": true,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 3,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 76.0
+    },
+    {
+      "note_id": "69e98b58000000001e00c271",
+      "url": "https://www.xiaohongshu.com/explore/69e98b58000000001e00c271?xsec_token=ABi3XahfuMrYmXbjRkfEzNr2swEuZMeUYtCG7ckfLydh8=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr2swEuZMeUYtCG7ckfLydh8=",
+      "title": "入职影石AI产品岗，月38k＋双休节奏拉满~",
+      "author_name": "AI产品经理-Rome",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI PM"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "11",
+      "comment_count": "9",
+      "search_payload": {
+        "id": "69e98b58000000001e00c271",
+        "model_type": "note",
+        "note_card": {
+          "corner_tag_info": [
+            {
+              "type": "publish_time",
+              "text": "1小时前"
+            }
+          ],
+          "cover": {
+            "height": 2560,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/6f08d2fad1b2c52f84a43c6d50f1f851/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/e76326279da53732b7a998795fefd276/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_prv_1",
+            "width": 1916
+          },
+          "display_title": "入职影石AI产品岗，月38k＋双休节奏拉满~",
+          "image_list": [
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/6f08d2fad1b2c52f84a43c6d50f1f851/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/e76326279da53732b7a998795fefd276/notes_pre_post/1040g3k831v9od38n2gc05q3bea9jfnlqir5jr2o!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1916
+            },
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/86a8fb55b6a2af6dc23ea7a048f15571/notes_pre_post/1040g3k831v9od39l2gdg5q3bea9jfnlq25b6uf0!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/39d67e38c1537624ec59124c83d890f1/notes_pre_post/1040g3k831v9od39l2gdg5q3bea9jfnlq25b6uf0!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1920
+            },
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/2cb390ab61056f6c8a81433e729cbccf/notes_pre_post/1040g3k831v9od39l2gd05q3bea9jfnlq6okee4g!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/468d44b3dfea36bcaf24359e9aa4881a/notes_pre_post/1040g3k831v9od39l2gd05q3bea9jfnlq6okee4g!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1920
+            },
+            {
+              "height": 2560,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/49eb4e6e7dbfdd60438ea61ed1cb54c3/notes_pre_post/1040g3k831v9od3b62gd05q3bea9jfnlqdllk8u0!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/22a5ea9b49601d04c70509a43fafc9ed/notes_pre_post/1040g3k831v9od3b62gd05q3bea9jfnlqdllk8u0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1920
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "7",
+            "comment_count": "9",
+            "liked": false,
+            "liked_count": "11",
+            "shared_count": "2"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31qgqmn6ug06g5q3bea9jfnlqiktd4fo?imageView2/2/w/80/format/jpg",
+            "nick_name": "AI产品经理-Rome",
+            "nickname": "AI产品经理-Rome",
+            "user_id": "686b7293000000000d03deba",
+            "xsec_token": "ABwN089l0UHtxQk7R76ETGzd8-BQ03r9bSgQFuDC3MGmc="
+          }
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr2swEuZMeUYtCG7ckfLydh8="
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 5,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 5,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 67.0
+    },
+    {
+      "note_id": "69860dc7000000001b017958",
+      "url": "https://www.xiaohongshu.com/explore/69860dc7000000001b017958?xsec_token=ABUANemgd6UC0Um69hPoWthG8pYLAq5KXoiCe5jjo2two=&xsec_source=pc_search",
+      "xsec_token": "ABUANemgd6UC0Um69hPoWthG8pYLAq5KXoiCe5jjo2two=",
+      "title": "文科生入门 Vibe Coding （工具准备篇）",
+      "author_name": "树皮说AI",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "7137",
+      "comment_count": null,
+      "search_payload": {
+        "type": "normal",
+        "display_title": "文科生入门 Vibe Coding （工具准备篇）",
+        "user": {
+          "nickname": "树皮说AI",
+          "nick_name": "树皮说AI",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p93l7pc2o6g5pi6pab7hho620s77r0",
+          "user_id": "6646ca96000000001e00c706"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "7137",
+          "sticky": true
+        },
+        "cover": {
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a6c90a9c06ce218cbc2f10f158611be8/notes_pre_post/1040g3k831s8jdeb9ls005pi6pab7hho6vq79jh0!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/65ffcae4b6e7396c9ad497337015fd93/notes_pre_post/1040g3k831s8jdeb9ls005pi6pab7hho6vq79jh0!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/a6c90a9c06ce218cbc2f10f158611be8/notes_pre_post/1040g3k831s8jdeb9ls005pi6pab7hho6vq79jh0!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/65ffcae4b6e7396c9ad497337015fd93/notes_pre_post/1040g3k831s8jdeb9ls005pi6pab7hho6vq79jh0!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1660,
+          "width": 1242,
+          "url": ""
+        },
+        "note_id": "69860dc7000000001b017958",
+        "xsec_token": "ABUANemgd6UC0Um69hPoWthG8pYLAq5KXoiCe5jjo2two="
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 66.0
+    },
+    {
+      "note_id": "6361f7d1000000000600a255",
+      "url": "https://www.xiaohongshu.com/explore/6361f7d1000000000600a255?xsec_token=AB6vZAuMtUA2MBb0yQaVOxVHCdjDE2K9NwF7XwcfJsoB8=&xsec_source=pc_search",
+      "xsec_token": "AB6vZAuMtUA2MBb0yQaVOxVHCdjDE2K9NwF7XwcfJsoB8=",
+      "title": "商业化产品第1讲:什么是商业化？",
+      "author_name": "萝卜聊产品",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "2933",
+      "comment_count": null,
+      "search_payload": {
+        "interact_info": {
+          "liked": false,
+          "liked_count": "2933",
+          "sticky": true
+        },
+        "cover": {
+          "file_id": "",
+          "height": 1416,
+          "width": 1417,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a592acbca4092da24d703cd7fdf76094/0302b2016k45kjivnw2010rmrj108qbepg!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a79fa713406370ea3c4d89936c373042/0302b2016k45kjivnw2010rmrj108qbepg!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/a592acbca4092da24d703cd7fdf76094/0302b2016k45kjivnw2010rmrj108qbepg!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/a79fa713406370ea3c4d89936c373042/0302b2016k45kjivnw2010rmrj108qbepg!nc_n_webp_mw_1"
+        },
+        "note_id": "6361f7d1000000000600a255",
+        "xsec_token": "AB6vZAuMtUA2MBb0yQaVOxVHCdjDE2K9NwF7XwcfJsoB8=",
+        "type": "normal",
+        "display_title": "商业化产品第1讲:什么是商业化？",
+        "user": {
+          "nick_name": "萝卜聊产品",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/62b84b46cf141239c5d814d2.jpg",
+          "user_id": "5b2b0416f7e8b92837d188b2",
+          "nickname": "萝卜聊产品"
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 66.0
+    },
+    {
+      "note_id": "680b41bf000000001c012ada",
+      "url": "https://www.xiaohongshu.com/explore/680b41bf000000001c012ada?xsec_token=ABLH7Cjq0NiEh1TIzGU46cUSSHtaM6ssINVChajTF97Kk=&xsec_source=pc_search",
+      "xsec_token": "ABLH7Cjq0NiEh1TIzGU46cUSSHtaM6ssINVChajTF97Kk=",
+      "title": "3分钟讲明白最近大热的「MCP」",
+      "author_name": "Super Winnie",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "8384",
+      "comment_count": null,
+      "search_payload": {
+        "xsec_token": "ABLH7Cjq0NiEh1TIzGU46cUSSHtaM6ssINVChajTF97Kk=",
+        "type": "video",
+        "display_title": "3分钟讲明白最近大热的「MCP」",
+        "user": {
+          "nick_name": "Super Winnie",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30omcdmnp3e005nd2jp2g8vtepdirh00",
+          "user_id": "5da29e450000000001007fae",
+          "nickname": "Super Winnie"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "8384",
+          "sticky": true
+        },
+        "cover": {
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/7d13e857578eac22e1c6da30a9cf9e15/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/60b0783d39807cc047239cef7d6d83a3/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/7d13e857578eac22e1c6da30a9cf9e15/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/60b0783d39807cc047239cef7d6d83a3/spectrum/1040g34o31gmlvadu3c0g5nd2jp2g8vteu2gm97o!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1348,
+          "width": 1011,
+          "url": ""
+        },
+        "note_id": "680b41bf000000001c012ada"
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 66.0
+    },
+    {
+      "note_id": "69555595000000001e00294c",
+      "url": "https://www.xiaohongshu.com/explore/69555595000000001e00294c?xsec_token=ABaw8lWBTXYX49C5jhMrBNNWG05vRI8P4iTjAjA0l45oU=&xsec_source=pc_search",
+      "xsec_token": "ABaw8lWBTXYX49C5jhMrBNNWG05vRI8P4iTjAjA0l45oU=",
+      "title": "VibeCoding产品电商化、制造业化",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "99",
+      "comment_count": null,
+      "search_payload": {
+        "cover": {
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3932a9eff1136725bcbc6a73e7a0e680/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/29c63ab7109a19578baef3554fbc7087/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/3932a9eff1136725bcbc6a73e7a0e680/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/29c63ab7109a19578baef3554fbc7087/notes_pre_post/1040g3k831qoe1ou172005q1ce06jjji85r5enig!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1104,
+          "width": 828
+        },
+        "note_id": "69555595000000001e00294c",
+        "xsec_token": "ABaw8lWBTXYX49C5jhMrBNNWG05vRI8P4iTjAjA0l45oU=",
+        "type": "normal",
+        "display_title": "VibeCoding产品电商化、制造业化",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38",
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）",
+          "nick_name": "哈哈du（AI版）"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "99",
+          "sticky": true
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 66.0
+    },
+    {
+      "note_id": "69c908db0000000023022c95",
+      "url": "https://www.xiaohongshu.com/explore/69c908db0000000023022c95?xsec_token=ABIh82Wv1Git2Mfs-32DKespQXLaiaMGwCNnaKP-bScow=&xsec_source=pc_search",
+      "xsec_token": "ABIh82Wv1Git2Mfs-32DKespQXLaiaMGwCNnaKP-bScow=",
+      "title": "我的Qclaw和大厂撞名，我决定……",
+      "author_name": "秋芝2046",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "2651",
+      "comment_count": null,
+      "search_payload": {
+        "user": {
+          "user_id": "63b622ab00000000260066bd",
+          "nickname": "秋芝2046",
+          "nick_name": "秋芝2046",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/66264d9e58b20e08aa252780.jpg"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "2651",
+          "sticky": true
+        },
+        "cover": {
+          "height": 1685,
+          "width": 1263,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/0d579373c8d9bab040b292b81c5cee6a/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/94f456262f1520d86441f42d8fcfa887/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/0d579373c8d9bab040b292b81c5cee6a/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/94f456262f1520d86441f42d8fcfa887/spectrum/1040g0k031u9sfh3tis005otm4alpgpltqcl254o!nc_n_webp_mw_1",
+          "file_id": ""
+        },
+        "note_id": "69c908db0000000023022c95",
+        "xsec_token": "ABIh82Wv1Git2Mfs-32DKespQXLaiaMGwCNnaKP-bScow=",
+        "type": "video",
+        "display_title": "我的Qclaw和大厂撞名，我决定……"
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "67dfe28b000000001203fcb6",
+      "url": "https://www.xiaohongshu.com/explore/67dfe28b000000001203fcb6?xsec_token=ABEbWsd4qOI1NnGWAxs908SsEi3bJ8Zj29NqdIwzzpDL8=&xsec_source=pc_search",
+      "xsec_token": "ABEbWsd4qOI1NnGWAxs908SsEi3bJ8Zj29NqdIwzzpDL8=",
+      "title": "25fall同济建筑转交互19校申请踩坑＋经验",
+      "author_name": "游离态",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "233",
+      "comment_count": null,
+      "search_payload": {
+        "xsec_token": "ABEbWsd4qOI1NnGWAxs908SsEi3bJ8Zj29NqdIwzzpDL8=",
+        "type": "normal",
+        "display_title": "25fall同济建筑转交互19校申请踩坑＋经验",
+        "user": {
+          "nick_name": "游离态",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cbsc9q4gk6g5o9m5pagjm6muh95p40",
+          "user_id": "61362e55000000000201d8d6",
+          "nickname": "游离态"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "233",
+          "sticky": true
+        },
+        "cover": {
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a25e738c5f494415392615d64d811cce/1040g2sg31g3bf80dgkdg5o9m5pagjm6m9jaoc88!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/ceff1d7842d1e4d4019495d600c58b8c/1040g2sg31g3bf80dgkdg5o9m5pagjm6m9jaoc88!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/a25e738c5f494415392615d64d811cce/1040g2sg31g3bf80dgkdg5o9m5pagjm6m9jaoc88!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/ceff1d7842d1e4d4019495d600c58b8c/1040g2sg31g3bf80dgkdg5o9m5pagjm6m9jaoc88!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1980,
+          "width": 1399
+        },
+        "note_id": "67dfe28b000000001203fcb6"
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "69736d0900000000090380f9",
+      "url": "https://www.xiaohongshu.com/explore/69736d0900000000090380f9?xsec_token=ABQ0biZzGO1FbB8tZxtl-p_w1K6gSH7boAxmLuRavvZk4=&xsec_source=pc_search",
+      "xsec_token": "ABQ0biZzGO1FbB8tZxtl-p_w1K6gSH7boAxmLuRavvZk4=",
+      "title": "挑战100天教妹妹拿下ai行业工作（1/100）",
+      "author_name": "树皮说AI",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "522",
+      "comment_count": null,
+      "search_payload": {
+        "type": "normal",
+        "display_title": "挑战100天教妹妹拿下ai行业工作（1/100）",
+        "user": {
+          "nick_name": "树皮说AI",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31p93l7pc2o6g5pi6pab7hho620s77r0",
+          "user_id": "6646ca96000000001e00c706",
+          "nickname": "树皮说AI"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "522",
+          "sticky": true
+        },
+        "cover": {
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/ca49de1d3cc9fb93eac66e0d28f08a8a/1040g00831rq3faeuis505pi6pab7hho64b79jno!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3687f0b87a151a215c97c35300618fea/1040g00831rq3faeuis505pi6pab7hho64b79jno!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/ca49de1d3cc9fb93eac66e0d28f08a8a/1040g00831rq3faeuis505pi6pab7hho64b79jno!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/3687f0b87a151a215c97c35300618fea/1040g00831rq3faeuis505pi6pab7hho64b79jno!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1707,
+          "width": 1280,
+          "url": ""
+        },
+        "note_id": "69736d0900000000090380f9",
+        "xsec_token": "ABQ0biZzGO1FbB8tZxtl-p_w1K6gSH7boAxmLuRavvZk4="
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "69a14ea100000000280220e5",
+      "url": "https://www.xiaohongshu.com/explore/69a14ea100000000280220e5?xsec_token=AB9O3LqWIfGB4mG6jsQAlzqgWZi-1wd9Nt15tqHQ2rRRc=&xsec_source=pc_search",
+      "xsec_token": "AB9O3LqWIfGB4mG6jsQAlzqgWZi-1wd9Nt15tqHQ2rRRc=",
+      "title": "做了个画ppt的skill，在GitHub上6k+星啦😮",
+      "author_name": "张咋啦",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "2.4万",
+      "comment_count": null,
+      "search_payload": {
+        "user": {
+          "nick_name": "张咋啦",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31fl1gsq2g40049mmbftcr46vum9nk9o",
+          "user_id": "59757acd50c4b45e6e9a90df",
+          "nickname": "张咋啦"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "2.4万",
+          "sticky": true
+        },
+        "cover": {
+          "width": 1920,
+          "url": "",
+          "trace_id": "",
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/7589209d85c6fc33edc4e21abe0d6296/1040g00831t36ubg4680049mmbftcr46v5sadj8g!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/90caf9413e658d835bb2aa482effa9d7/1040g00831t36ubg4680049mmbftcr46v5sadj8g!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/7589209d85c6fc33edc4e21abe0d6296/1040g00831t36ubg4680049mmbftcr46v5sadj8g!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/90caf9413e658d835bb2aa482effa9d7/1040g00831t36ubg4680049mmbftcr46v5sadj8g!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1440
+        },
+        "note_id": "69a14ea100000000280220e5",
+        "xsec_token": "AB9O3LqWIfGB4mG6jsQAlzqgWZi-1wd9Nt15tqHQ2rRRc=",
+        "type": "video",
+        "display_title": "做了个画ppt的skill，在GitHub上6k+星啦😮"
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "6969e058000000002202cd68",
+      "url": "https://www.xiaohongshu.com/explore/6969e058000000002202cd68?xsec_token=ABh0LT5odETdb-a078YD_oRd-qcGQLDfaMyT--N3z8zoA=&xsec_source=pc_search",
+      "xsec_token": "ABh0LT5odETdb-a078YD_oRd-qcGQLDfaMyT--N3z8zoA=",
+      "title": "2026靠这10个AI技能，拉开差距",
+      "author_name": "Super Winnie",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "6万",
+      "comment_count": null,
+      "search_payload": {
+        "cover": {
+          "trace_id": "",
+          "info_list": [
+            {
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/78680114edc7fd54473da4ffb3ca056a/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_prv_1",
+              "image_scene": "WB_PRV"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/4915b114382954ca48eec621b3f2e187/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/78680114edc7fd54473da4ffb3ca056a/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/4915b114382954ca48eec621b3f2e187/spectrum/1040g0k031rd2e7vmhe005nd2jp2g8vtee0t8dp0!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1685,
+          "width": 1263,
+          "url": ""
+        },
+        "note_id": "6969e058000000002202cd68",
+        "xsec_token": "ABh0LT5odETdb-a078YD_oRd-qcGQLDfaMyT--N3z8zoA=",
+        "type": "video",
+        "display_title": "2026靠这10个AI技能，拉开差距",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30omcdmnp3e005nd2jp2g8vtepdirh00",
+          "user_id": "5da29e450000000001007fae",
+          "nickname": "Super Winnie",
+          "nick_name": "Super Winnie"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "6万",
+          "sticky": true
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "69e76880000000002200e51a",
+      "url": "https://www.xiaohongshu.com/explore/69e76880000000002200e51a?xsec_token=ABAakiYjCUy1mhI9dthg3ZW1bISv4KqCON5mbp26irGfk=&xsec_source=pc_search",
+      "xsec_token": "ABAakiYjCUy1mhI9dthg3ZW1bISv4KqCON5mbp26irGfk=",
+      "title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+      "author_name": "哈哈du（AI版）",
+      "content_type": "video",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "15",
+      "comment_count": null,
+      "search_payload": {
+        "note_id": "69e76880000000002200e51a",
+        "xsec_token": "ABAakiYjCUy1mhI9dthg3ZW1bISv4KqCON5mbp26irGfk=",
+        "type": "video",
+        "display_title": "饺子馆skill火了!老板们都用AI应用拓展生意",
+        "user": {
+          "nick_name": "哈哈du（AI版）",
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ml3j0ps4q005q1ce06jjji8p513h38",
+          "user_id": "682c700d000000000e01ce48",
+          "nickname": "哈哈du（AI版）"
+        },
+        "interact_info": {
+          "liked": false,
+          "liked_count": "15",
+          "sticky": false
+        },
+        "cover": {
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/7aa3a1bdc7249dede09c77ee3d5382c8/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/b0a86af07809501f073e1bd2047d9b8d/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/7aa3a1bdc7249dede09c77ee3d5382c8/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/b0a86af07809501f073e1bd2047d9b8d/spectrum/1040g0k031v7legci3m0g5q1ce06jjji8jcauupg!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 2022,
+          "width": 1516,
+          "url": "",
+          "trace_id": ""
+        }
+      },
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 0
+      },
+      "total_score": 60.0
+    },
+    {
+      "note_id": "69e6273f000000001a02a9ad",
+      "url": "https://www.xiaohongshu.com/explore/69e6273f000000001a02a9ad?xsec_token=ABd9alKzEhXls0lSH_JWqNS4Bmkl9jVZxKvFfE5wx5ABw=&xsec_source=pc_search",
+      "xsec_token": "ABd9alKzEhXls0lSH_JWqNS4Bmkl9jVZxKvFfE5wx5ABw=",
+      "title": "AI PM必备：快速搭建风格化个人网站",
+      "author_name": "游离态",
+      "content_type": "normal",
+      "matched_keywords": [],
+      "source_lanes": [
+        "priority_author"
+      ],
+      "liked_count": "17",
+      "comment_count": null,
+      "search_payload": {
+        "interact_info": {
+          "liked": false,
+          "liked_count": "17",
+          "sticky": false
+        },
+        "cover": {
+          "info_list": [
+            {
+              "image_scene": "WB_PRV",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/13bfb110ebadc852647aabaddab89091/notes_pre_post/1040g3k831v6da1fdjqd05o9m5pagjm6mh2us6r8!nc_n_webp_prv_1"
+            },
+            {
+              "image_scene": "WB_DFT",
+              "url": "http://sns-webpic-qc.xhscdn.com/202604231245/096dee485188d778aaa8cee6c8e8b724/notes_pre_post/1040g3k831v6da1fdjqd05o9m5pagjm6mh2us6r8!nc_n_webp_mw_1"
+            }
+          ],
+          "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/13bfb110ebadc852647aabaddab89091/notes_pre_post/1040g3k831v6da1fdjqd05o9m5pagjm6mh2us6r8!nc_n_webp_prv_1",
+          "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/096dee485188d778aaa8cee6c8e8b724/notes_pre_post/1040g3k831v6da1fdjqd05o9m5pagjm6mh2us6r8!nc_n_webp_mw_1",
+          "file_id": "",
+          "height": 1680,
+          "width": 1400,
+          "url": "",
+          "trace_id": ""
+        },
+        "note_id": "69e6273f000000001a02a9ad",
+        "xsec_token": "ABd9alKzEhXls0lSH_JWqNS4Bmkl9jVZxKvFfE5wx5ABw=",
+        "type": "normal",
+        "display_title": "AI PM必备：快速搭建风格化个人网站",
+        "user": {
+          "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31cbsc9q4gk6g5o9m5pagjm6muh95p40",
+          "user_id": "61362e55000000000201d8d6",
+          "nickname": "游离态",
+          "nick_name": "游离态"
+        }
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "重点博主更新",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 12,
+        "penalty": 8
+      },
+      "total_score": 58.0
+    },
+    {
+      "note_id": "69e9a273000000002302514d",
+      "url": "https://www.xiaohongshu.com/explore/69e9a273000000002302514d?xsec_token=ABi3XahfuMrYmXbjRkfEzNr1U8AmtUNL4VNdne4iMjY3A=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr1U8AmtUNL4VNdne4iMjY3A=",
+      "title": "INTJ运营人实用工具🛠️—gpt+claude",
+      "author_name": "林小慧🍀",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "2",
+      "comment_count": "0",
+      "search_payload": {
+        "id": "69e9a273000000002302514d",
+        "model_type": "note",
+        "note_card": {
+          "user": {
+            "xsec_token": "AB26md-jGN_mCu0eXl0YppTnF8ks5ASy54d-uPxwI6zLs=",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31ps5uinf50005nu5v7lg8b12p0n8s9o?imageView2/2/w/80/format/jpg",
+            "nick_name": "林小慧🍀",
+            "nickname": "林小慧🍀",
+            "user_id": "5fc5f9eb0000000001002c22"
+          },
+          "corner_tag_info": [
+            {
+              "text": "6分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/6f9b8fda641e10ff5e803d5aa05786d0/notes_uhdr/1040g3qo31v9rab97is705nu5v7lg8b12hurfgb8!nc_n_webp_prv_1",
+            "width": 4284,
+            "height": 5712,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/f5d80c180070760110bf75735bcb9bde/notes_uhdr/1040g3qo31v9rab97is705nu5v7lg8b12hurfgb8!nc_n_webp_mw_1"
+          },
+          "display_title": "INTJ运营人实用工具🛠️—gpt+claude",
+          "image_list": [
+            {
+              "height": 5712,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/f5d80c180070760110bf75735bcb9bde/notes_uhdr/1040g3qo31v9rab97is705nu5v7lg8b12hurfgb8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/6f9b8fda641e10ff5e803d5aa05786d0/notes_uhdr/1040g3qo31v9rab97is705nu5v7lg8b12hurfgb8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 4284
+            },
+            {
+              "width": 1437,
+              "height": 688,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/eae03eb33e56b60a635d56bdd39c44f1/1040g00831v9qkbc21u005nu5v7lg8b122un6s9o!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3826609b0cee00a4b97b4ec528bab2f3/1040g00831v9qkbc21u005nu5v7lg8b122un6s9o!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 679,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/631cb95de6ce36f4e17bf899b4ae32c9/1040g00831v9qkbc21u0g5nu5v7lg8b12noq1q50!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/627d1679478e7f9fbc5d904cdea35911/1040g00831v9qkbc21u0g5nu5v7lg8b12noq1q50!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1281
+            }
+          ],
+          "interact_info": {
+            "collected_count": "2",
+            "comment_count": "0",
+            "liked": false,
+            "liked_count": "2",
+            "shared_count": "0",
+            "collected": false
+          },
+          "type": "normal"
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr1U8AmtUNL4VNdne4iMjY3A="
+      },
+      "detail_ok": false,
+      "detail_msg": "'success'",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 54.0
+    },
+    {
+      "note_id": "69e8dac8000000001d01a84c",
+      "url": "https://www.xiaohongshu.com/explore/69e8dac8000000001d01a84c?xsec_token=ABVPGjh9Sfok7Dq_4ODnPKipWgGaLhdVxJy30FDE86O1w=&xsec_source=pc_search",
+      "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKipWgGaLhdVxJy30FDE86O1w=",
+      "title": "📊30天AI PM｜把AI搜索用出天花板‼️‼️",
+      "author_name": "Raylin的AI日记",
+      "content_type": "video",
+      "matched_keywords": [
+        "AI PM"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "39",
+      "comment_count": "2",
+      "search_payload": {
+        "id": "69e8dac8000000001d01a84c",
+        "model_type": "note",
+        "note_card": {
+          "image_list": [
+            {
+              "height": 1448,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/5ff57d1663e9ed85ddaccc4d724fdf14/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/edd160c7fb536ed72eb28dacae9edfdf/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1086
+            }
+          ],
+          "interact_info": {
+            "collected": false,
+            "collected_count": "43",
+            "comment_count": "2",
+            "liked": false,
+            "liked_count": "39",
+            "shared_count": "4"
+          },
+          "type": "video",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31tq9okfvnu0g493ktr2be39u0fis8h8?imageView2/2/w/80/format/jpg",
+            "nick_name": "Raylin的AI日记",
+            "nickname": "Raylin的AI日记",
+            "user_id": "589584b75e87e70fb47b0d3e",
+            "xsec_token": "ABnNZvEGNVIZeAOzV3VJtWbHXt4raPwxC4Eh2b4RhzrrY="
+          },
+          "corner_tag_info": [
+            {
+              "text": "1小时前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 1448,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/5ff57d1663e9ed85ddaccc4d724fdf14/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/edd160c7fb536ed72eb28dacae9edfdf/1040g2sg31v9njg3r1meg493ktr2be39uontf9ko!nc_n_webp_prv_1",
+            "width": 1086
+          },
+          "display_title": "📊30天AI PM｜把AI搜索用出天花板‼️‼️"
+        },
+        "xsec_token": "ABVPGjh9Sfok7Dq_4ODnPKipWgGaLhdVxJy30FDE86O1w="
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 54.0
+    },
+    {
+      "note_id": "69e9a200000000001f005c77",
+      "url": "https://www.xiaohongshu.com/explore/69e9a200000000001f005c77?xsec_token=AB5DaNJdARCpdVsMDtxN31oXR70D48z2loYiNJdTO6fI0=&xsec_source=pc_search",
+      "xsec_token": "AB5DaNJdARCpdVsMDtxN31oXR70D48z2loYiNJdTO6fI0=",
+      "title": "GPT你是第一，设计已死，AI当立！",
+      "author_name": "4u",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "2",
+      "comment_count": "0",
+      "search_payload": {
+        "id": "69e9a200000000001f005c77",
+        "model_type": "note",
+        "note_card": {
+          "display_title": "GPT你是第一，设计已死，AI当立！",
+          "image_list": [
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhYU_jQmTOr5dUzIQx547aKwsWBRFyY8FT76Nog5AzjkXMpDoBqxka0rfd0HIDF75lu8NtYAjnLlf4z1oRRpyaeCslF-4jHa6YuXpPELCYaSPkV9v6QSFg6jYS_5DDuj6I4rWLJC4Wjgy9ECHMUwlnW88loo7x_v0E0ggi7b582NX#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhfNErT5EDB8wpU6IMb5f-ySRriMUE333N-4U61OgVnIxm0j59b6im7EfkudFuNZj2sAmhwPzp2-F7-wvUe_n8paGgdcTdcsltHpeZoe18Qty775C-GvegZU5ttxwZjvffvCU7EFwODXb0gSMpXqeCQcJj6A3Il9eF4fD9hsZOEyO#?v=cb1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "width": 1080,
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhTQZa77Hyfhbha5gOP2WOj9Pe5Mma6QTL0EW2L8xhyvaOYtVbcJxVTiNxhie6cRPkwGWtEW1sxp9nS_HF1-iXMgLxJiHP20tOXtHMTWs0wWbwlvz6If-D5cy-W6JkJbf0PMDHCCAHvzQQ8ZOjvJ-4WWRBbc42HV_jkzqCrYQ-xiX#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhe7lnT6Nr6pzAW8jKqx9hzQAOWZxem6xH9j0Z_Umb9gzt9vf3irF_kphsKrnwT3Ahx3U92aYjJxvO8oi-Oz4qyeeKrjyffYr7EBmMhglqWrUF6IUD2f2vk_VLLeeZ6LiJby1rXnXIPjNovhpKH5_dQbN3UqJxZRnKqO83EQ7Bs7q#?v=cb1"
+                }
+              ]
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhY1upJ_CgK8UFIg3QdNI1wmzDFmoZ9vvpoE5-C28Pp3cQ4cuDmUHAIjw3VIffkqtlau3j4kd-hbXWFUi-hLyQcWkiq8D-sB6b5N8pAAQJt7G-ivNffraCQhICLtzgLPHhhdF5eR1CQJWHu74phkBNGzsJljMPDRPJZ_dPhpmCT-U#?v=cb1"
+                },
+                {
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhTO4dV21YLsujS2jDOzjXdxUh4L16qskHmgFRZHf6SkWlV4wj-VxXNTAwzjJRAMWPsUI5LegcKHFlQlgfqhnstvCBmuc4QgidWz-ZHVfYdD-TFh76cURysME6D3Nn3R0B2RR6lGlMjxV0ZXZVL6Ew7UvUYwjs_k4j9XpzEZzX75c#?v=cb1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhQqu93WsJw-dvSxckLx_qX7za7d4yeamK-_OdcagB2MT-y3wW5mWeEph_lNlPGlEUAc87fOUqNqk5AFNj_-x_wC3V8-A5y4bg73TlZJnj-FSt5jZEfH0ACoiLztSwOj5rIRFaIFKNT--91BIE3Mg0O7Vqe5mqiFVW4pWkj_tH46p#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhQVSHI7XGz1K33i3R_tuNY5JlaubNWSYLXbntWP--bjGSrcXJ-RL-kqEL5eBWx2sXiCjkEoOLFnW80CwHwXsEjs2kOs6t-yKlZc-7pI1fP0cpntnmiJkueFRV9czP4hGPhmslPvR9Alxr7SB3Fv3n1qMUtZOjmWhe8-pfDjkE5-m#?v=cb1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhbyLMNju5Z4bGXyOK_TJw8AiVwe_7rchup2XYuOG8S25cVQRoomi2tVd8z9btMygbIDs43mHrhuOB7je91O2SL7S49bvxJa8e1bHE8rWTyM4z0dbqDJ_f29ozmwUbwW-ssgEYVwrdOgcwFAK_Uvk90uySZYsaK-ptoVHqUDfyZEs#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhRvNsrvTeEd68I2H-kgmCTqeM5gBAE1dRbOAewhIDJ2oTxn_wkoIhEA7ogTNYjY7eLcjtJsFLT-DlNUGCux2e_Pmo2qRkLfetC2PTpD247nbdhPEcXpsLvq_irb9QYHecoWYzbA2D_sOECmPByhaZXjtdbRShaPQSme4eYeSgDOt#?v=cb1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhS_3CjVU_CUuPOApI5g7pAOvM9SpASZLETNwV4FMmVliLEArwPCAzMXuQ2jspEOLwBHbFoReAp48WElywguFPuFMsF7GX4Jf8YQndyaKjeQpHxS0J0IGo8z-sYHw9TuYqUU1vQNHYt9O0wVDI64DkpfyP9q5pT37DU7vm7aJMCYF#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhUO5Tpv0M3Qc-9oCPfonN73ohPonOQaCX2jgRQAMO0T_J7vzLifr4RkFvGt234vc1TILPQOhjgNtmH6MRfs4Gugp9B9Zx1Lx2RaIFspEjwvYPBU602IO5amR6j-i9b86BP5k8hsXIE5dgiwOnM9pDv5sdGUYKNodapNdyC7L-v92#?v=cb1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhVU4HajUBnefc4GALBXvxG8Ef4oLyVFpxLaNKz4TOpTWx9MLVFvcdNvUK6y__U0lk2MekC4kQWk7avosTFwGdPGsYQhc7V-wuv00eGAiKGn31IYO8fIADevQ5ShEaU8dhiHAFFava3y6Kgv5EUpJjSr2xi6TY6rCSnTK-MD9I8Yv#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhYoHm-mHkveiy3QSfe-n4kjMJ2wC9f76tw8M_QHxJ4liSGKZ1QHWFStqewtDF4Vp-pGKaXRHk-3Dc1avfaBj0S4Q2-kmlEgFQdT48uZVqdwyy4eoa0FaRl121n0TRHBLnmAwumYg4IK2h7g1T4rXsKFFWMJpcYgBngIRbBwl4M8Q#?v=cb1"
+                }
+              ],
+              "width": 1080
+            },
+            {
+              "height": 1440,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhTiqJ4lfxnDBHQK18PdJDYRiMhQct0d84KcJz1h1vqIWfhqoaFD432XtJJtU8oULRMVHzXc2061-8pMQ1Bbcc2kxH3pyhEUQWIQZ5EP6Wb5AEKVp1UdJOq4DzIayTDVE_K6ZCP4pLPd0S7TS4TIHc9QnpV0EtZXg2GjJ0tiKRx_R#?v=cb1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhYK0oK8QXBpKhpinhRvvnqDxKm-cNNpxgmGPedSh0_eyizQD2j116XAZWMbrcP2GBUWWddU-N5XvAEVzMYafXOgbVzrIdocP4t3Acwb7yIxBoN_B9n-PNgXUKVwvgf4L5PdjSMoV4F1O6mRTs8KWn_m5oMkj89bXrUng-Oq7JTbW#?v=cb1"
+                }
+              ],
+              "width": 1080
+            }
+          ],
+          "interact_info": {
+            "liked": false,
+            "liked_count": "2",
+            "shared_count": "0",
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Vm3k4YNywvnnOffBdwWbFJ9diXpGUKSJyZxpGo9oy67L1TanB3u0Ygv6l8vHkRfyt-G1tp5hPUTTpBkn3vME5KurYVSgmDhPSC00XEn8o0VBTAisvTU38Wmr3FnVZ866GFAzndCk8xL2LeKjDBTvjB#?v=cb1",
+            "nick_name": "4u",
+            "nickname": "4u",
+            "user_id": "615522330000000002025723",
+            "xsec_token": "AB6pG0F93z_FbUqRdQAVn6BHt1qWs5MTP_mlxmtkqZ6Xo="
+          },
+          "corner_tag_info": [
+            {
+              "text": "8分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 1440,
+            "url_default": "https://cdn.xiaohongshu.com/sd-static/api/20260423124546/402f6f97-a663-4b0f-a5f1-491a13c9db56?u=R2iIg03VqUrKDq5bReg7JPa8XQQJ4NF1slho-CqszKtuWdnwL1ck5Lx1d8btHcyxWR7PKJZj01ehT_G-zN7IixWWj6wfrBov983uvFRBx_Xxr6TBgmrK0pFS-_jOTSCGm43_tH5XKQnEOd10sXvIhYU_jQmTOr5dUzIQx547aKwsWBRFyY8FT76Nog5AzjkXMpDoBqxka0rfd0HIDF75lu8NtYAjnLlf4z1oRRpyaeCslF-4jHa6YuXpPELCYaSPkV9v6QSFg6jYS_5DDuj6I4rWLJC4Wjgy9ECHMUwlnW88loo7x_v0E0ggi7b582NX#?v=cb1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/447ede80fb0d7dc04f82e9dd1bab63d7/notes_pre_post/1040g3k831v9r78ld2qd05oal48pgklp319p42f0!nc_n_webp_prv_1?v=cb1",
+            "width": 1080
+          }
+        },
+        "xsec_token": "AB5DaNJdARCpdVsMDtxN31oXR70D48z2loYiNJdTO6fI0="
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 48.0
+    },
+    {
+      "note_id": "69e9a1c4000000001a030016",
+      "url": "https://www.xiaohongshu.com/explore/69e9a1c4000000001a030016?xsec_token=ABi3XahfuMrYmXbjRkfEzNr03uAVD2b1_JC3wPOnb1PCw=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr03uAVD2b1_JC3wPOnb1PCw=",
+      "title": "SpringAI入门指南",
+      "author_name": "苏三说技术",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI工具"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "2",
+      "comment_count": "0",
+      "search_payload": {
+        "note_card": {
+          "user": {
+            "xsec_token": "ABEkQT4PUYQjgllSug5lx05YvdQxmTnNkOwoMj-dZ7ENU=",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/6280a3c1baef693f36a26fa0.jpg?imageView2/2/w/80/format/jpg",
+            "nick_name": "苏三说技术",
+            "nickname": "苏三说技术",
+            "user_id": "6280a3330000000021029e23"
+          },
+          "corner_tag_info": [
+            {
+              "text": "9分钟前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 2880,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/47334f9313f0dd0af80f79e9b657d193/spectrum/1040g34o31v9r6rgg1me05ok0kcpod7h3b3ruun0!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/9f0907a3bd74461013569531a5c8d664/spectrum/1040g34o31v9r6rgg1me05ok0kcpod7h3b3ruun0!nc_n_webp_prv_1",
+            "width": 2160
+          },
+          "display_title": "SpringAI入门指南",
+          "image_list": [
+            {
+              "height": 2880,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/47334f9313f0dd0af80f79e9b657d193/spectrum/1040g34o31v9r6rgg1me05ok0kcpod7h3b3ruun0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/9f0907a3bd74461013569531a5c8d664/spectrum/1040g34o31v9r6rgg1me05ok0kcpod7h3b3ruun0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 5286,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/721771c294848251920e6e6155672862/spectrum/1040g34o31v9r6rgg1meg5ok0kcpod7h3oe5ohk8!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a660108bae6a0d6e5f1808b31314a8c6/spectrum/1040g34o31v9r6rgg1meg5ok0kcpod7h3oe5ohk8!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 2880,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/7689764da53b6968e19ae1c47c89dccb/spectrum/1040g34o31v9r6rgg1mf05ok0kcpod7h3f1n3cg0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/dc5b710b63911cb1c9f7494269464b8c/spectrum/1040g34o31v9r6rgg1mf05ok0kcpod7h3f1n3cg0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 5136,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a1ced536959fbbc9247612be82066731/spectrum/1040g34o31v9r6rgg1mfg5ok0kcpod7h32lehpro!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/1c64e03e811beafa6d76404a4c908bef/spectrum/1040g34o31v9r6rgg1mfg5ok0kcpod7h32lehpro!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 2880,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3275f9491db14fdd3dbd64fdc9a9728f/spectrum/1040g34o31v9r6rgg1mg05ok0kcpod7h3p47bco8!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/cf27f451c1f9fb0cfe5bf890d69303fa/spectrum/1040g34o31v9r6rgg1mg05ok0kcpod7h3p47bco8!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "width": 2160,
+              "height": 3292,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/2d16a1b19c05c21b8d17de173c7ce56d/spectrum/1040g34o31v9r6rgg1mgg5ok0kcpod7h3mv3m50o!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/f060ff1e6ac98ec54575e933ea599c77/spectrum/1040g34o31v9r6rgg1mgg5ok0kcpod7h3mv3m50o!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 3224,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/77e1e63352745ce6bd991add8b4aaa31/spectrum/1040g34o31v9r6rgg1mh05ok0kcpod7h37rbofa0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/f7f830fe8acbc707941c08c1627d1812/spectrum/1040g34o31v9r6rgg1mh05ok0kcpod7h37rbofa0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 3160,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/a2f88611464b956cf05634e0497b6a57/spectrum/1040g34o31v9r6rgg1mhg5ok0kcpod7h3agh35f0!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3bb1b446a7478a83b69127e847fece17/spectrum/1040g34o31v9r6rgg1mhg5ok0kcpod7h3agh35f0!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 3504,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/4013af0048a04b71c4db6b58860bcd52/spectrum/1040g34o31v9r6rgg1mi05ok0kcpod7h3ok2a7u8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/755cf290f2a9bf85d11c082e3d1e0381/spectrum/1040g34o31v9r6rgg1mi05ok0kcpod7h3ok2a7u8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/cb01e541e5e8d03f797f8027d447ca7a/spectrum/1040g34o31v9r6rgg1mig5ok0kcpod7h3n8iubu0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/e779474eaac1f0b6ba085833869f975d/spectrum/1040g34o31v9r6rgg1mig5ok0kcpod7h3n8iubu0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160,
+              "height": 3030
+            },
+            {
+              "height": 4910,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/5a8647c42800da59c65d3f29d1c7e16d/spectrum/1040g34o31v9r6rgg1mj05ok0kcpod7h3lk3ttr8!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/de94ba6e21e7cbf61654021c1392c5e4/spectrum/1040g34o31v9r6rgg1mj05ok0kcpod7h3lk3ttr8!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 3220,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/c072a47ab8f7903828c200d0b77f3628/spectrum/1040g34o31v9r6rgg1mjg5ok0kcpod7h3hn1pmk8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/2591509cc88562d509d04a7514751876/spectrum/1040g34o31v9r6rgg1mjg5ok0kcpod7h3hn1pmk8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 3090,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/5e730b85d47ef6f1c1b5e160b3b2dfba/spectrum/1040g34o31v9r6rgg1mk05ok0kcpod7h37ejhlhg!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/50bbbb17f67fa2b300cb751872846832/spectrum/1040g34o31v9r6rgg1mk05ok0kcpod7h37ejhlhg!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/c5e0f44277a55ee1a8befd6064348bb2/spectrum/1040g34o31v9r6rgg1mkg5ok0kcpod7h3m1s7qd8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/eec2c26392177216a78a8e8ced873c38/spectrum/1040g34o31v9r6rgg1mkg5ok0kcpod7h3m1s7qd8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160,
+              "height": 3124
+            },
+            {
+              "width": 2160,
+              "height": 3116,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/c43f7f17dba686669d9d8982b6a1615a/spectrum/1040g0k031v9r6ufd2s005ok0kcpod7h3tou1pgo!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/8303dbe81c98897af6272e9815a75754/spectrum/1040g0k031v9r6ufd2s005ok0kcpod7h3tou1pgo!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "width": 2160,
+              "height": 4656,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/b5118905e1ab5dd31186b758569738d7/spectrum/1040g0k031v9r6ufd2s0g5ok0kcpod7h3njd73c8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/3494ea06cc2449e0ff18f78d04a47f08/spectrum/1040g0k031v9r6ufd2s0g5ok0kcpod7h3njd73c8!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 2880,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/6630fa6ccd86c43307e5ce2dc5c57fb7/spectrum/1040g0k031v9r6ufd2s105ok0kcpod7h32iu79jo!nc_n_webp_mw_1"
+                },
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/118e84c979094c328415bc233a011827/spectrum/1040g0k031v9r6ufd2s105ok0kcpod7h32iu79jo!nc_n_webp_prv_1",
+                  "image_scene": "WB_PRV"
+                }
+              ],
+              "width": 2160
+            },
+            {
+              "height": 8444,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/baa28a1efb9f64cb11a795316b4ea087/spectrum/1040g0k031v9r6ufd2s1g5ok0kcpod7h3ai88qs8!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/2c80abe71da6629532f28d98139d4569/spectrum/1040g0k031v9r6ufd2s1g5ok0kcpod7h3ai88qs8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 2160
+            }
+          ],
+          "interact_info": {
+            "liked": false,
+            "liked_count": "2",
+            "shared_count": "0",
+            "collected": false,
+            "collected_count": "2",
+            "comment_count": "0"
+          },
+          "type": "normal"
+        },
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr03uAVD2b1_JC3wPOnb1PCw=",
+        "id": "69e9a1c4000000001a030016",
+        "model_type": "note"
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 3,
+        "usefulness": 1,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 48.0
+    },
+    {
+      "note_id": "69e9635700000000230159bf",
+      "url": "https://www.xiaohongshu.com/explore/69e9635700000000230159bf?xsec_token=ABi3XahfuMrYmXbjRkfEzNr8PyifJ9ENNPxexXHOBfB4Y=&xsec_source=pc_search",
+      "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr8PyifJ9ENNPxexXHOBfB4Y=",
+      "title": "",
+      "author_name": "kK的产品实战派",
+      "content_type": "normal",
+      "matched_keywords": [
+        "AI产品经理"
+      ],
+      "source_lanes": [
+        "keyword_search"
+      ],
+      "liked_count": "0",
+      "comment_count": "0",
+      "search_payload": {
+        "xsec_token": "ABi3XahfuMrYmXbjRkfEzNr8PyifJ9ENNPxexXHOBfB4Y=",
+        "id": "69e9635700000000230159bf",
+        "model_type": "note",
+        "note_card": {
+          "corner_tag_info": [
+            {
+              "text": "4小时前",
+              "type": "publish_time"
+            }
+          ],
+          "cover": {
+            "height": 1600,
+            "url_default": "http://sns-webpic-qc.xhscdn.com/202604231245/36ff08c777cdb27befaeba1eb6ccfb27/1040g00831v8qeffbig105ng43mu08i48ntuevi8!nc_n_webp_mw_1",
+            "url_pre": "http://sns-webpic-qc.xhscdn.com/202604231245/4177d75b0367e58a0832b063e1a05b83/1040g00831v8qeffbig105ng43mu08i48ntuevi8!nc_n_webp_prv_1",
+            "width": 1200
+          },
+          "image_list": [
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/36ff08c777cdb27befaeba1eb6ccfb27/1040g00831v8qeffbig105ng43mu08i48ntuevi8!nc_n_webp_mw_1",
+                  "image_scene": "WB_DFT"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/4177d75b0367e58a0832b063e1a05b83/1040g00831v8qeffbig105ng43mu08i48ntuevi8!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1200
+            },
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/aac45398fd52a129438119f5b3dc8e9b/1040g00831v8qeffbig1g5ng43mu08i48364ijrg!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/13ddbe2b6c6bbf77f311a3592cec0ddd/1040g00831v8qeffbig1g5ng43mu08i48364ijrg!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1200
+            },
+            {
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/ff430525d9479b60d88a441d4780e197/1040g00831v8qeffbig205ng43mu08i48dp7l5ho!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/12b00e9bd0993233112abc7d5b1b5af6/1040g00831v8qeffbig205ng43mu08i48dp7l5ho!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1200
+            },
+            {
+              "width": 1200,
+              "height": 1600,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/b5b2d3c1895c4597619ef9c4f4a79c28/1040g00831v8qeffbig2g5ng43mu08i4823ahigg!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/796b6782a53441c338519280308a27f1/1040g00831v8qeffbig2g5ng43mu08i4823ahigg!nc_n_webp_prv_1"
+                }
+              ]
+            },
+            {
+              "height": 4437,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/451defd575a3d108a37505b962d55db8/1040g00831v8qeffbig305ng43mu08i48cglbct0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/581297e0102ec9aa569c1bdb1bd3df7a/1040g00831v8qeffbig305ng43mu08i48cglbct0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 4212
+            },
+            {
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/08f2723d8fe73c75ac8b9de29c101efb/1040g00831v8qeffbig3g5ng43mu08i48n3e7jd0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/2ec289d17613e1293b088958926ccbcd/1040g00831v8qeffbig3g5ng43mu08i48n3e7jd0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 4212,
+              "height": 3803
+            },
+            {
+              "height": 1214,
+              "info_list": [
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/69c9f0e6254c9dbe84d9f65495cd2a4a/1040g00831v8qeffbig405ng43mu08i4858jemq0!nc_n_webp_mw_1"
+                },
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202604231245/56259a94acd91428bc7c2df2798bd389/1040g00831v8qeffbig405ng43mu08i4858jemq0!nc_n_webp_prv_1"
+                }
+              ],
+              "width": 1080
+            }
+          ],
+          "interact_info": {
+            "liked": false,
+            "liked_count": "0",
+            "shared_count": "0",
+            "collected": false,
+            "collected_count": "0",
+            "comment_count": "0"
+          },
+          "type": "normal",
+          "user": {
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31t9ap5oh5m005ng43mu08i48tnc2fl0?imageView2/2/w/80/format/jpg",
+            "nick_name": "kK的产品实战派",
+            "nickname": "kK的产品实战派",
+            "user_id": "5e041dbc0000000001004888",
+            "xsec_token": "ABv3BfI7DUHvxFKoa0RR0ndSv_QX7XNRPkkNNOjI179Y4="
+          }
+        }
+      },
+      "detail_ok": false,
+      "detail_msg": "登录已过期",
+      "is_excluded": false,
+      "exclude_reason": "",
+      "label": "快速略过",
+      "is_top_pick_eligible": false,
+      "score_breakdown": {
+        "theme_relevance": 4,
+        "novelty": 1,
+        "clarity": 1,
+        "usefulness": 3,
+        "engagement": 0,
+        "boost": 0,
+        "penalty": 0
+      },
+      "total_score": 46.0
+    }
+  ]
+}
