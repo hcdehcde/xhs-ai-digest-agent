@@ -1,25 +1,26 @@
 # XHS AI 日报助手
 
-一个面向 AI 产品学习与行业热点追踪的本地化日报 Agent。项目围绕“小红书 AI 信息流过载、低质内容混入、人工筛选耗时”的问题，搭建了从内容采集、规则过滤、价值判断、排序筛选到飞书推送的自动化链路。
+一个面向 AI 产品学习与行业热点追踪的本地化日报 Agent。项目围绕“小红书 AI 信息流过载、低质内容混入、人工筛选耗时”的问题，搭建了从内容采集、规则过滤、真实日报候选池构建、LLM Judge 语义判断到日报生成的自动化链路。
 
-当前版本以 Python 为主实现，使用 Spider_XHS 作为小红书采集适配器，通过可维护的 YAML 规则集管理关键词、重点博主、过滤规则、打分维度和日报输出策略，并支持本地定时运行与飞书群消息推送。
+当前版本以 Python 为主实现，使用 Spider_XHS 作为小红书采集适配器，通过可维护的 YAML 规则集管理关注博主、重点博主、过滤规则、打分维度和日报输出策略；同时接入千问兼容接口作为 LLM Judge，在“当天优先、近 3 天补位、已发送去重”的真实候选池中做最终价值判断。飞书推送已支持，但当前试运行建议先只生成本地日报。
 
 ## 项目目标
 
-- 自动跟踪小红书中与 AI 产品、AI 工具、Agent、AI PM 等主题相关的内容。
+- 自动跟踪用户已关注博主中与 AI 产品、AI 工具、Agent、AI PM 等主题相关的内容。
 - 从候选内容中识别高价值信息，降低人工刷帖和整理日报的时间成本。
-- 通过规则集与评分逻辑，让“值得点开”的判断标准可解释、可调整。
-- 支持每日定时生成日报，并推送到飞书群，形成稳定的信息入口。
+- 通过规则集、结构化特征和 LLM Judge，让“值得点开”的判断标准可解释、可调整。
+- 支持每日定时生成日报，稳定后可选推送到飞书群，形成固定的信息入口。
 
 ## 核心能力
 
-- 内容采集：基于关键词搜索与重点博主列表，采集小红书候选笔记。
+- 内容采集：基于用户关注博主和重点博主列表，采集小红书候选笔记。
 - 结构化解析：提取标题、作者、正文、发布时间、互动信息、链接等字段。
 - 规则过滤：过滤招聘、简历、强引流、泛教程、低相关内容等噪音。
 - 价值判断：围绕主题相关性、信息增量、结论清晰度、工作帮助度等维度进行打分。
-- 排序筛选：优先保留当天内容；不足时只补近 3 天且未发送过的内容。
+- 候选池控制：先筛出当天内容；不足时只补近 3 天且未发送过的内容。
+- LLM Judge：对真实日报候选池做结构化语义判断，作为最终入选的重要依据。
 - 去重控制：避免同一笔记或已推送内容重复进入日报。
-- 自动推送：支持通过飞书开放平台将日报发送到指定群聊。
+- 自动推送：支持通过飞书开放平台将日报发送到指定群聊，当前可关闭。
 - 登录态检查：运行前校验小红书登录态，避免 cookie 失效导致假空结果。
 
 ## 系统架构
@@ -43,7 +44,7 @@ xhs_auth_refresh.py
 ==================================================
                 【内容采集层】
 ==================================================
-关键词搜索 + 重点博主内容抓取
+关注博主 + 重点博主内容抓取
 Spider_XHS / XHS API Adapter
 
     |
@@ -62,8 +63,9 @@ Spider_XHS / XHS API Adapter
 ==================================================
 特征抽取：主题相关性 / 信息增量 / 结论清晰度 / 工作帮助度
 价值评分：规则权重 + 作者权重 + 新鲜度权重
-排序筛选：最推荐 / 其余值得看
-时间控制：当天优先，不足时仅补近 3 天且未发过内容
+真实日报候选池：当天优先，不足时仅补近 3 天且未发过内容
+LLM Judge：对真实日报候选池做结构化语义判断
+排序筛选：按 worth_click、规则分、作者权重输出最推荐 / 其余值得看
 
     |
     v
@@ -71,12 +73,37 @@ Spider_XHS / XHS API Adapter
                 【输出与推送层】
 ==================================================
 生成日报：Markdown + JSON
-飞书推送：Feishu Message API
+飞书推送：Feishu Message API（可选）
 去重发送：同一天同内容不重复推送
 
     |
     v
-飞书群收到 AI 日报
+本地查看日报 / 可选推送飞书
+```
+
+## 数据流
+
+```mermaid
+sequenceDiagram
+    participant Scheduler as 定时任务
+    participant Runner as run_daily_digest.py
+    participant Auth as 登录态校验
+    participant Collector as xhs_digest_collect.py
+    participant XHS as 小红书采集适配器
+    participant Reports as reports/
+    participant Feishu as 飞书群
+
+    Scheduler->>Runner: 每天 22:00 触发
+    Runner->>Auth: 检查 cookie / 登录态
+    Auth-->>Runner: 返回可用或失败原因
+    Runner->>Collector: 开始生成日报
+    Collector->>XHS: 拉取关注博主与重点博主内容
+    XHS-->>Collector: 返回候选笔记
+    Collector->>Collector: 去重、过滤、打分、构建真实日报候选池
+    Collector->>Collector: LLM Judge 语义判断并重排
+    Collector->>Reports: 写入 Markdown 和 JSON
+    Runner->>Feishu: 可选推送日报文本
+    Feishu-->>Runner: 返回 message_id
 ```
 
 ## 目录结构
@@ -85,7 +112,7 @@ Spider_XHS / XHS API Adapter
 
 ```text
 xhs-digest/
-├── xhs_digest_collect.py          # 核心采集、过滤、打分、排序、日报生成逻辑
+├── xhs_digest_collect.py          # 核心采集、过滤、打分、LLM Judge、日报生成逻辑
 ├── run_daily_digest.py            # 正式日报任务入口
 ├── send_feishu_digest.py          # 飞书消息推送
 ├── xhs_auth_refresh.py            # 小红书登录态检查与刷新
@@ -113,10 +140,10 @@ xhs-digest/
 
 项目没有把筛选标准全部写死在 prompt 或代码里，而是将规则沉淀到 `xhs-digest-agent.rules.yaml` 中，包括：
 
-- 主题关键词：AI 产品、AI 工具、Agent、AI PM、AI 产品经理等。
+- 主题关键词：AI 产品、AI 工具、Agent、AI PM、AI 产品经理等，用于主题识别和标签推断。
 - 重点博主：优先关注的账号列表。
 - 排除关键词：招聘、简历、面经、卖课、私信、加群等。
-- 排序策略：重点博主加权、关键词命中加权、新鲜度权重、重复内容处理。
+- 排序策略：重点博主加权、主题命中加权、新鲜度权重、重复内容处理。
 - Top Picks 标准：主题相关性、信息增量、结论清晰度、工作帮助度等。
 - 输出格式：日报分区、单日数量上限、是否展示作者和链接。
 
@@ -124,12 +151,12 @@ xhs-digest/
 
 ### 2. 候选内容采集
 
-采集分为两条路径：
+当前正式日报只从用户已关注博主和重点博主范围内采集，不做全平台推荐。
 
-- 关键词召回：根据规则包里的 AI 相关关键词搜索候选内容。
-- 博主召回：从重点博主和关注博主中拉取近期内容。
+- 重点博主：用户长期认可的信息源，会获得更高优先级。
+- 普通关注博主：仍可进入日报，但需要内容本身足够有价值。
 
-两条路径的结果会合并为候选池，并按 `note_id` 去重，避免同一条笔记重复进入后续流程。
+关键词不再作为当前版本的正式召回入口，主要用于主题识别、标签推断和后续调试。候选内容会按 `note_id` 去重，避免同一条笔记重复进入后续流程。
 
 ### 3. 过滤与噪音识别
 
@@ -155,7 +182,38 @@ xhs-digest/
 
 最终日报会分为“最推荐”和“其余值得看”。如果当天高质量内容不足，只允许补近 3 天内且未发送过的内容，避免日报反复出现旧内容。
 
-### 5. 日报生成
+### 5. LLM Judge 语义主裁判
+
+当前版本支持 LLM Judge 层。它不是对全量抓取内容随便判断，而是在规则初筛之后，先构建“真正有资格进入日报”的候选池，再交给模型判断。
+
+当前顺序是：
+
+```text
+抓取关注博主内容
+  ↓
+规则过滤与特征打分
+  ↓
+构建真实日报候选池：当天优先，不足时补近 3 天，且排除已发过内容
+  ↓
+LLM Judge 判断 worth_click、信息增量、清晰度、帮助度
+  ↓
+根据模型判断和规则分输出最终日报
+```
+
+LLM Judge 会输出：
+
+- 是否值得点开
+- 信息增量评分
+- 结论清晰度评分
+- 工作帮助度评分
+- 一句话判断理由
+- 一句话 takeaway
+
+LLM Judge 主要补足规则系统对语义价值的理解不足。例如，用户反馈“每天切 8 个软件的活，终于被 AI 拯救了！”这类内容虽然不是新产品发布，也不是行业观点，但它体现了具体 AI 工具提效场景和工作流改造价值，因此应该被视为正向案例。
+
+模型接口不可用时，系统会自动降级为原规则排序，不影响日报生成。
+
+### 6. 日报生成
 
 日报会同时输出两种文件：
 
@@ -169,7 +227,7 @@ reports/{date}.md
 reports/{date}.json
 ```
 
-### 6. 飞书推送
+### 7. 飞书推送
 
 `send_feishu_digest.py` 通过飞书开放平台接口发送消息。配置来自 `feishu_app.env`：
 
@@ -223,13 +281,19 @@ python3 xhs_auth_refresh.py --mode qr
 ### 3. 手动生成日报
 
 ```bash
-python3 run_daily_digest.py
+set -a
+source .env
+set +a
+XHS_SEND_FEISHU=0 python3 run_daily_digest.py
 ```
 
 生成指定日期日报：
 
 ```bash
-python3 run_daily_digest.py --date 2026-04-29
+set -a
+source .env
+set +a
+XHS_SEND_FEISHU=0 python3 run_daily_digest.py --date 2026-04-29
 ```
 
 生成并推送到飞书：
@@ -268,13 +332,40 @@ xhs-digest-agent.rules.yaml
 
 常见可调项：
 
-- `sources.keywords`：调整关键词召回范围。
+- `sources.keywords`：调整主题识别和标签推断关键词。
 - `sources.priority_authors`：调整重点博主。
 - `sources.watch_authors`：调整普通关注博主。
 - `sources.exclude_keywords`：调整硬过滤词。
 - `ranking.daily_item_limit`：控制日报最多展示多少条。
 - `ranking.top_pick_limit`：控制最推荐内容数量。
 - `ranking.top_pick_scoring.thresholds`：控制 Top Picks 门槛。
+- `llm_judge.enabled`：是否启用 LLM Judge 语义判断。
+- `llm_judge.max_candidates`：每次交给模型判断的真实日报候选数量上限。
+
+启用 LLM Judge 时，需要在项目根目录 `.env` 中配置 OpenAI-compatible 模型接口。当前默认按阿里百炼 / 千问兼容模式配置：
+
+```env
+QIANWEN_API_KEY=your_dashscope_api_key
+QIANWEN_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+QIANWEN_MODEL=qwen-plus
+```
+
+手动运行前需要加载 `.env`：
+
+```bash
+set -a
+source .env
+set +a
+```
+
+然后将 `xhs-digest-agent.rules.yaml` 中的配置改为：
+
+```yaml
+llm_judge:
+  enabled: true
+```
+
+如果没有配置 API key，或模型接口失败，系统会自动回退到原规则排序，不会中断日报生成。
 
 ## 项目指标口径
 
@@ -316,15 +407,15 @@ __pycache__/
 
 - 小红书没有官方开放接口，采集稳定性依赖登录态和第三方适配器。
 - cookie 可能失效，需要定期刷新登录态。
-- 当前评分逻辑以规则和启发式特征为主，尚未接入完整的 embedding + reranker + LLM judge 评测链路。
+- 当前已经接入 LLM Judge，但还没有建立完整的 badcase 评估集。
+- 当前尚未接入 embedding + reranker，因此召回范围仍受关注博主更新限制。
 - 飞书推送当前为文本消息，后续可以升级为卡片式摘要。
 
 ## 后续优化方向
 
-- 接入 embedding 召回，补充语义相关但未命中关键词的内容。
+- 在不破坏“只看关注博主”边界的前提下，接入 embedding 召回，补充语义相关但未显式命中关键词的内容。
 - 引入 reranker，对候选内容进行更精细排序。
-- 使用 LLM judge 对 Top N 内容做结构化判断。
-- 增加 badcase 标注和回放机制，用真实误判样本迭代规则。
+- 建立 LLM Judge badcase 标注和回放机制，用真实误判样本迭代 prompt 和规则。
 - 将飞书文本推送升级为卡片式摘要。
 - 将 cookie 刷新、异常重试和任务监控做成更完整的运行面板。
 
@@ -333,9 +424,9 @@ __pycache__/
 这个项目不是简单的定时脚本，而是一个轻量级本地 Agent：
 
 - 有目标：每天筛出值得看的 AI 信息。
-- 有外部输入：小红书信息流、重点博主、关键词结果。
+- 有外部输入：用户关注博主和重点博主的小红书内容流。
 - 有规则记忆：通过 YAML 和知识文档维护偏好。
-- 有判断过程：过滤、打分、排序、去重、时间窗口控制。
+- 有判断过程：过滤、打分、时间窗口控制、LLM Judge、排序、去重。
 - 有行动输出：生成日报并推送到飞书。
 - 有异常处理：登录态检查、网络错误识别、失败状态输出。
 
