@@ -81,31 +81,6 @@ LLM Judge：对真实日报候选池做结构化语义判断
 本地查看日报 / 可选推送飞书
 ```
 
-## 数据流
-
-```mermaid
-sequenceDiagram
-    participant Scheduler as 定时任务
-    participant Runner as run_daily_digest.py
-    participant Auth as 登录态校验
-    participant Collector as xhs_digest_collect.py
-    participant XHS as 小红书采集适配器
-    participant Reports as reports/
-    participant Feishu as 飞书群
-
-    Scheduler->>Runner: 每天 22:00 触发
-    Runner->>Auth: 检查 cookie / 登录态
-    Auth-->>Runner: 返回可用或失败原因
-    Runner->>Collector: 开始生成日报
-    Collector->>XHS: 拉取关注博主与重点博主内容
-    XHS-->>Collector: 返回候选笔记
-    Collector->>Collector: 去重、过滤、打分、构建真实日报候选池
-    Collector->>Collector: LLM Judge 语义判断并重排
-    Collector->>Reports: 写入 Markdown 和 JSON
-    Runner->>Feishu: 可选推送日报文本
-    Feishu-->>Runner: 返回 message_id
-```
-
 ## 目录结构
 
 当前开发目录结构如下：
@@ -380,28 +355,6 @@ llm_judge:
 ```text
 RESUME_METRICS.md
 ```
-
-## 隐私与安全
-
-上传 GitHub 前请不要提交以下文件：
-
-```text
-feishu_app.env
-Spider_XHS/.env
-reports/.feishu_sent.json
-reports/logs/
-*.log
-__pycache__/
-.DS_Store
-```
-
-原因：
-
-- `feishu_app.env` 可能包含飞书 App Secret。
-- `Spider_XHS/.env` 可能包含小红书 cookie。
-- `reports/` 下的日志和状态文件可能包含本地路径、推送状态和个人使用数据。
-
-如果需要展示日报效果，建议只保留脱敏后的样例日报。
 
 ## 当前限制
 
